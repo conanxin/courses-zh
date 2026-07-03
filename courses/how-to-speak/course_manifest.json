@@ -1,7 +1,7 @@
 {
   "id": "how-to-speak",
   "slug": "how-to-speak",
-  "version": "v1.0",
+  "version": "v1.0.1",
   "status": "published",
   "title_zh": "MIT OCW《How to Speak》中文学习版",
   "title_en": "MIT OCW How to Speak",
@@ -38,7 +38,7 @@
     "技术汇报",
     "学习方法"
   ],
-  "updated_at": "2026-07-03T09:10:41.347698+00:00",
+  "updated_at": "2026-07-03T11:54:17.605949+00:00",
   "fixes": [
     {
       "phase": "phase7b",
@@ -49,6 +49,13 @@
       "phase": "phase7c",
       "summary": "Force fix: direct iframe fallback, button chapters, generated notes/practice HTML.",
       "updated_at": "2026-07-03T09:10:41.347698+00:00"
+    },
+    {
+      "phase": "phase7d",
+      "summary": "Archive iframe as primary visible player; HTML5 video demoted to backup with zh/bilingual VTT; chapter clicks scroll + update iframe src with start param + HTML5 currentTime.",
+      "updated_at": "2026-07-03T11:54:17.605983+00:00"
     }
-  ]
+  ],
+  "phase7d_marker": "phase7d-video-primary-iframe-20260703",
+  "player_mode": "archive_iframe_primary_html5_backup"
 }

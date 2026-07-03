@@ -5,6 +5,7 @@
  <meta charset="utf-8">
  <title>如何演讲 | MIT OCW 中文学习站</title>
  <meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="phase-marker" content="phase7d-video-primary-iframe-20260703">
  <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -30,31 +31,42 @@
  </section>
 
  <section class="player-card" id="player">
-  <div class="video-shell">
-   <video id="video-player" controls preload="metadata" crossorigin="anonymous" playsinline>
-    <source src="https://archive.org/download/mithowtospeak/MIT_How_To_Speak_IAP_2018_300k.mp4" type="video/mp4">
-    <track src="assets/data/subtitles_zh.vtt" kind="subtitles" srclang="zh-CN" label="中文" default>
-    <track src="assets/data/subtitles_bilingual.vtt" kind="subtitles" srclang="zh-Hans" label="双语">
-    您的浏览器不支持 HTML5 视频播放。
-   </video>
+  <div class="primary-player">
+   <div class="archive-player-shell">
+    <iframe id="archive-iframe" src="https://archive.org/embed/mithowtospeak" allowfullscreen></iframe>
+   </div>
+   <div class="archive-player-note">
+    <span>🎬 主播放器：Internet Archive 官方嵌入播放器</span>
+    <span class="meta-line">如遇到加载问题，可尝试下方备用播放器。</span>
+   </div>
   </div>
 
-  <div class="fallback">
-   <strong>备用播放器：</strong>
-   <p>如果上方视频无法播放，请使用 Internet Archive 官方播放器：</p>
-   <div id="archive-iframe-box"></div>
+  <div class="fallback" id="html5-fallback">
+   <div class="fallback-header">
+    <strong>高级 / 备用播放器</strong>
+    <span class="meta-line">如果浏览器支持直链 MP4，可在此播放并加载中文字幕。</span>
+   </div>
+   <div class="video-shell">
+    <video id="video-player" controls preload="metadata" crossorigin="anonymous" playsinline>
+     <source src="https://archive.org/download/mithowtospeak/MIT_How_To_Speak_IAP_2018_300k.mp4" type="video/mp4">
+     <track src="assets/data/subtitles_zh.vtt" kind="subtitles" srclang="zh-CN" label="中文" default>
+     <track src="assets/data/subtitles_bilingual.vtt" kind="subtitles" srclang="zh-Hans" label="双语">
+     您的浏览器不支持 HTML5 视频播放。
+    </video>
+   </div>
+   <div class="subtitle-controls">
+    <strong>字幕：</strong>
+    <button id="btn-subtitle-zh" data-subtitle-button="zh" class="active" type="button">🇨🇳 中文</button>
+    <button id="btn-subtitle-bilingual" data-subtitle-button="bilingual" type="button">🔁 双语</button>
+    <button id="btn-subtitle-off" data-subtitle-button="off" type="button">❌ 关闭</button>
+   </div>
+  </div>
+
+  <div class="fallback-links">
    <p>
     <a class="button" href="https://archive.org/download/mithowtospeak/MIT_How_To_Speak_IAP_2018_300k.mp4" target="_blank" rel="noopener">打开官方 MP4</a>
     <a class="button" href="https://archive.org/details/mithowtospeak" target="_blank" rel="noopener">打开 Archive 页面</a>
    </p>
-  </div>
-
-  <div class="subtitle-controls">
-   <strong>字幕：</strong>
-   <button id="btn-subtitle-zh" data-subtitle-button="zh" class="active" type="button">🇨🇳 中文</button>
-   <button id="btn-subtitle-bilingual" data-subtitle-button="bilingual" type="button">🔁 双语</button>
-   <button id="btn-subtitle-off" data-subtitle-button="off" type="button">❌ 关闭</button>
-   <span class="meta-line">💡 点击章节卡片会跳转到对应时间。</span>
   </div>
  </section>
 
@@ -78,14 +90,16 @@
  </section>
 
  <section class="section-card">
-  <h2>在线学习版说明</h2>
-  <p>本页面是课程集合项目中的子课程：<strong>MIT OCW《How to Speak》中文学习版 v1.0</strong>。</p>
-  <p>在线视频引用 Internet Archive 官方公开视频文件；中文字幕、双语字幕、中文讲稿、讲义、卡片和练习材料来自本地中文学习项目。</p>
-  <p><a href="../../index.html">返回课程集合首页</a> · <a href="./resources.html">查看本课程全部学习资源</a></p>
+  <h2>关于本课程</h2>
+  <p>本课程基于 MIT OCW 的 <em>How to Speak</em>（2018 IAP）讲座，由 Patrick Winston 主讲。中文翻译、字幕、讲义与卡片均为社区学习资源，仅供学习参考。</p>
+  <p class="meta-line">原始视频与版权归属 MIT / Internet Archive。本站仅提供学习辅助材料。</p>
  </section>
 </main>
 
-<footer>MIT OCW RES.TLL-005 How to Speak | 中文学习版</footer>
+<footer>
+ <p class="meta-line">Phase 7D · 主播放器：Internet Archive 嵌入 · 备用：HTML5 video + 中文字幕</p>
+</footer>
+
 <script src="assets/js/app.js"></script>
 </body>
 </html>

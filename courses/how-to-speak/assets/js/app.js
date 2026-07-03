@@ -1,4 +1,4 @@
-
+// phase7d-video-primary-iframe-20260703
 const CONFIG = {
  videoPath: "https://archive.org/download/mithowtospeak/MIT_How_To_Speak_IAP_2018_300k.mp4",
  archiveEmbed: "https://archive.org/embed/mithowtospeak",
@@ -14,10 +14,9 @@ let currentSubtitleMode = "zh";
 
 document.addEventListener("DOMContentLoaded", async () => {
  await loadChapters();
- setupVideoPlayer();
+ setupHtml5VideoPlayer();
  renderChapterList();
  setupSubtitleControls();
- setupVideoFallback();
 });
 
 async function loadChapters() {
@@ -30,7 +29,7 @@ async function loadChapters() {
  }
 }
 
-function setupVideoPlayer() {
+function setupHtml5VideoPlayer() {
  const video = document.getElementById("video-player");
  if (!video) return;
  const source = video.querySelector("source");
@@ -62,11 +61,19 @@ function addTrack(video, src, srclang, label, isDefault) {
  video.appendChild(track);
 }
 
-function setupVideoFallback() {
- const iframeBox = document.getElementById("archive-iframe-box");
- if (iframeBox && !iframeBox.dataset.loaded) {
-  iframeBox.innerHTML = '<iframe src="' + CONFIG.archiveEmbed + '" allowfullscreen></iframe>';
-  iframeBox.dataset.loaded = "true";
+function updateArchiveIframe(seconds) {
+ const iframe = document.getElementById("archive-iframe");
+ if (!iframe) return;
+ // Internet Archive embed supports ?start=SECONDS
+ const base = CONFIG.archiveEmbed;
+ const url = seconds > 0 ? `${base}?start=${Math.floor(seconds)}` : base;
+ // Only update if different to avoid reload flicker
+ const currentSrc = iframe.getAttribute("src") || "";
+ const currentBase = currentSrc.split("?")[0];
+ if (currentBase !== base) {
+  iframe.src = url;
+ } else if (currentSrc !== url) {
+  iframe.src = url;
  }
 }
 
@@ -94,22 +101,28 @@ function renderChapterList() {
 }
 
 function jumpToChapter(seconds, btn) {
- const video = document.getElementById("video-player");
- if (!video) return;
-
+ // 1. Scroll to player area
  document.querySelector(".player-card")?.scrollIntoView({ behavior: "smooth", block: "start" });
 
- try {
-  video.currentTime = seconds;
-  video.focus();
-  const playPromise = video.play();
-  if (playPromise && typeof playPromise.catch === "function") {
-   playPromise.catch(() => {});
+ // 2. Update Archive iframe (primary player)
+ updateArchiveIframe(seconds);
+
+ // 3. Update HTML5 video (fallback player) if available
+ const video = document.getElementById("video-player");
+ if (video) {
+  try {
+   video.currentTime = seconds;
+   video.focus();
+   const playPromise = video.play();
+   if (playPromise && typeof playPromise.catch === "function") {
+    playPromise.catch(() => {});
+   }
+  } catch (err) {
+   console.error("HTML5 video chapter jump failed", err);
   }
- } catch (err) {
-  console.error("chapter jump failed", err);
  }
 
+ // 4. Highlight current chapter
  document.querySelectorAll(".chapter-card").forEach(x => x.classList.remove("current"));
  if (btn) btn.classList.add("current");
 }
