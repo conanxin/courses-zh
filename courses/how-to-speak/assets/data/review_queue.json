@@ -1,0 +1,1394 @@
+[
+  {
+    "type": "english_only",
+    "index": 107,
+    "timestamp": "00:05:41,540",
+    "text_en": "我接下来想做的是：给你们一些启发式方法的范例",
+    "text_zh": "我接下来想做的是：给你们一些启发式方法的范例",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 109,
+    "timestamp": "00:05:48,970",
+    "text_en": "这些启发式方法中的第一个是：进行循环强化是个好主意。",
+    "text_zh": "这些启发式方法中的第一个是：进行循环强化是个好主意。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 120,
+    "timestamp": "00:06:16,190",
+    "text_en": "是：在任何时刻，你们中大约有 20% 的人",
+    "text_zh": "是：在任何时刻，你们中大约有 20% 的人",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 126,
+    "timestamp": "00:06:33,500",
+    "text_en": "我还会想到的另一件事是：在解释我的想法时，",
+    "text_zh": "我还会想到的另一件事是：在解释我的想法时，",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 127,
+    "timestamp": "00:06:38,190",
+    "text_en": "我想在它周围建一道围栏，这样它就不会和别人",
+    "text_zh": "我想在它周围建一道围栏，这样它就不会和别人",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 130,
+    "timestamp": "00:06:50,900",
+    "text_en": "什么是“拱门”（arch），我可能会对你说：",
+    "text_zh": "什么是“拱门”（arch），我可能会对你说：",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 153,
+    "timestamp": "00:07:56,210",
+    "text_en": "告诉大家这是一个适合重新回到主线上的时刻。",
+    "text_zh": "告诉大家这是一个适合重新回到主线上的时刻。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 231,
+    "timestamp": "00:11:34,400",
+    "text_en": "他们也许会答，\n关了灯大家才看得清幻灯片，",
+    "text_zh": "他们也许会答，\n关了灯大家才看得清幻灯片，",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 242,
+    "timestamp": "00:12:15,750",
+    "text_en": "我请主办方做的第一件事，\n就是带我去讲的地方",
+    "text_zh": "我请主办方做的第一件事，\n就是带我去讲的地方",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 501,
+    "timestamp": "00:25:56,940",
+    "text_en": "have only a few words on each transparency,",
+    "text_zh": "have only a few words on each transparency,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 501,
+    "timestamp": "00:25:56,940",
+    "text_en": "have only a few words on each transparency,",
+    "text_zh": "have only a few words on each transparency,",
+    "issue": "Chinese line too long (43 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 502,
+    "timestamp": "00:25:59,700",
+    "text_en": "and that the words are easy to read.",
+    "text_zh": "and that the words are easy to read.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 502,
+    "timestamp": "00:25:59,700",
+    "text_en": "and that the words are easy to read.",
+    "text_zh": "and that the words are easy to read.",
+    "issue": "Chinese line too long (36 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 503,
+    "timestamp": "00:26:02,160",
+    "text_en": "And I hope I'm driving you crazy because I'm",
+    "text_zh": "And I hope I'm driving you crazy because I'm",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 503,
+    "timestamp": "00:26:02,160",
+    "text_en": "And I hope I'm driving you crazy because I'm",
+    "text_zh": "And I hope I'm driving you crazy because I'm",
+    "issue": "Chinese line too long (44 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 504,
+    "timestamp": "00:26:05,310",
+    "text_en": "committing all kinds of crimes, the first of which",
+    "text_zh": "committing all kinds of crimes, the first of which",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 504,
+    "timestamp": "00:26:05,310",
+    "text_en": "committing all kinds of crimes, the first of which",
+    "text_zh": "committing all kinds of crimes, the first of which",
+    "issue": "Chinese line too long (50 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 505,
+    "timestamp": "00:26:08,550",
+    "text_en": "is that there are too many words on the slide.",
+    "text_zh": "is that there are too many words on the slide.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 505,
+    "timestamp": "00:26:08,550",
+    "text_en": "is that there are too many words on the slide.",
+    "text_zh": "is that there are too many words on the slide.",
+    "issue": "Chinese line too long (46 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 506,
+    "timestamp": "00:26:12,540",
+    "text_en": "Second of which is, I'm way over there,",
+    "text_zh": "Second of which is, I'm way over there,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 506,
+    "timestamp": "00:26:12,540",
+    "text_en": "Second of which is, I'm way over there,",
+    "text_zh": "Second of which is, I'm way over there,",
+    "issue": "Chinese line too long (39 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 507,
+    "timestamp": "00:26:14,630",
+    "text_en": "and the slide's way over there.",
+    "text_zh": "and the slide's way over there.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 508,
+    "timestamp": "00:26:16,560",
+    "text_en": "So you get into this tennis match feeling",
+    "text_zh": "So you get into this tennis match feeling",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 508,
+    "timestamp": "00:26:16,560",
+    "text_en": "So you get into this tennis match feeling",
+    "text_zh": "So you get into this tennis match feeling",
+    "issue": "Chinese line too long (41 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 509,
+    "timestamp": "00:26:20,070",
+    "text_en": "of shifting back and forth between the slide",
+    "text_zh": "of shifting back and forth between the slide",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 509,
+    "timestamp": "00:26:20,070",
+    "text_en": "of shifting back and forth between the slide",
+    "text_zh": "of shifting back and forth between the slide",
+    "issue": "Chinese line too long (44 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 511,
+    "timestamp": "00:26:24,600",
+    "text_en": "You want the slides to be condiments to what",
+    "text_zh": "You want the slides to be condiments to what",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 511,
+    "timestamp": "00:26:24,600",
+    "text_en": "You want the slides to be condiments to what",
+    "text_zh": "You want the slides to be condiments to what",
+    "issue": "Chinese line too long (44 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 512,
+    "timestamp": "00:26:26,790",
+    "text_en": "you're saying, not the main event or the opposite way",
+    "text_zh": "you're saying, not the main event or the opposite way",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 512,
+    "timestamp": "00:26:26,790",
+    "text_en": "you're saying, not the main event or the opposite way",
+    "text_zh": "you're saying, not the main event or the opposite way",
+    "issue": "Chinese line too long (53 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 514,
+    "timestamp": "00:26:31,150",
+    "text_en": "So how can we fix this?",
+    "text_zh": "So how can we fix this?",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 515,
+    "timestamp": "00:26:33,420",
+    "text_en": "Step number one is to get rid of the background junk.",
+    "text_zh": "Step number one is to get rid of the background junk.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 515,
+    "timestamp": "00:26:33,420",
+    "text_en": "Step number one is to get rid of the background junk.",
+    "text_zh": "Step number one is to get rid of the background junk.",
+    "issue": "Chinese line too long (53 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 516,
+    "timestamp": "00:26:37,860",
+    "text_en": "That's always distraction.",
+    "text_zh": "That's always distraction.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 517,
+    "timestamp": "00:26:40,560",
+    "text_en": "Step number two is to get rid of the words.",
+    "text_zh": "Step number two is to get rid of the words.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 517,
+    "timestamp": "00:26:40,560",
+    "text_en": "Step number two is to get rid of the words.",
+    "text_zh": "Step number two is to get rid of the words.",
+    "issue": "Chinese line too long (43 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 518,
+    "timestamp": "00:26:43,590",
+    "text_en": "When I reduced the words to these,",
+    "text_zh": "When I reduced the words to these,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 519,
+    "timestamp": "00:26:46,320",
+    "text_en": "then everything I read a previous time,",
+    "text_zh": "then everything I read a previous time,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 519,
+    "timestamp": "00:26:46,320",
+    "text_en": "then everything I read a previous time,",
+    "text_zh": "then everything I read a previous time,",
+    "issue": "Chinese line too long (39 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 520,
+    "timestamp": "00:26:50,210",
+    "text_en": "I'm not licensed to say, because it's not on the slide.",
+    "text_zh": "I'm not licensed to say, because it's not on the slide.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 520,
+    "timestamp": "00:26:50,210",
+    "text_en": "I'm not licensed to say, because it's not on the slide.",
+    "text_zh": "I'm not licensed to say, because it's not on the slide.",
+    "issue": "Chinese line too long (55 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 521,
+    "timestamp": "00:26:53,270",
+    "text_en": "I'm not reading my slides anymore,",
+    "text_zh": "I'm not reading my slides anymore,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 522,
+    "timestamp": "00:26:55,090",
+    "text_en": "but I'm saying what was written on the slides",
+    "text_zh": "but I'm saying what was written on the slides",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 522,
+    "timestamp": "00:26:55,090",
+    "text_en": "but I'm saying what was written on the slides",
+    "text_zh": "but I'm saying what was written on the slides",
+    "issue": "Chinese line too long (45 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 523,
+    "timestamp": "00:26:58,370",
+    "text_en": "in a previous example.",
+    "text_zh": "in a previous example.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 524,
+    "timestamp": "00:27:02,010",
+    "text_en": "So what else can we do to simplify this?",
+    "text_zh": "So what else can we do to simplify this?",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 524,
+    "timestamp": "00:27:02,010",
+    "text_en": "So what else can we do to simplify this?",
+    "text_zh": "So what else can we do to simplify this?",
+    "issue": "Chinese line too long (40 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 525,
+    "timestamp": "00:27:05,310",
+    "text_en": "Well, we can get rid of the logos.",
+    "text_zh": "Well, we can get rid of the logos.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 529,
+    "timestamp": "00:27:15,400",
+    "text_en": "Get rid of the title.",
+    "text_zh": "Get rid of the title.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 530,
+    "timestamp": "00:27:17,410",
+    "text_en": "Now, I want to talk to you about some rules for slide",
+    "text_zh": "Now, I want to talk to you about some rules for slide",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 530,
+    "timestamp": "00:27:17,410",
+    "text_en": "Now, I want to talk to you about some rules for slide",
+    "text_zh": "Now, I want to talk to you about some rules for slide",
+    "issue": "Chinese line too long (53 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 532,
+    "timestamp": "00:27:21,250",
+    "text_en": "I'm telling you the title.",
+    "text_zh": "I'm telling you the title.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 533,
+    "timestamp": "00:27:22,840",
+    "text_en": "It doesn't have to be up there.",
+    "text_zh": "It doesn't have to be up there.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 534,
+    "timestamp": "00:27:24,880",
+    "text_en": "By reducing the number of words on the slide,",
+    "text_zh": "By reducing the number of words on the slide,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 534,
+    "timestamp": "00:27:24,880",
+    "text_en": "By reducing the number of words on the slide,",
+    "text_zh": "By reducing the number of words on the slide,",
+    "issue": "Chinese line too long (45 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 535,
+    "timestamp": "00:27:27,370",
+    "text_en": "I'm allowing you to pay more attention to me",
+    "text_zh": "I'm allowing you to pay more attention to me",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 535,
+    "timestamp": "00:27:27,370",
+    "text_en": "I'm allowing you to pay more attention to me",
+    "text_zh": "I'm allowing you to pay more attention to me",
+    "issue": "Chinese line too long (44 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 536,
+    "timestamp": "00:27:29,350",
+    "text_en": "and less to what's written on the slide.",
+    "text_zh": "and less to what's written on the slide.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 536,
+    "timestamp": "00:27:29,350",
+    "text_en": "and less to what's written on the slide.",
+    "text_zh": "and less to what's written on the slide.",
+    "issue": "Chinese line too long (40 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 537,
+    "timestamp": "00:27:32,295",
+    "text_en": "I mentioned it before-- we-- have only one language",
+    "text_zh": "I mentioned it before-- we-- have only one language",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 537,
+    "timestamp": "00:27:32,295",
+    "text_en": "I mentioned it before-- we-- have only one language",
+    "text_zh": "I mentioned it before-- we-- have only one language",
+    "issue": "Chinese line too long (51 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 538,
+    "timestamp": "00:27:34,420",
+    "text_en": "processor, and we can either use it to read stuff",
+    "text_zh": "processor, and we can either use it to read stuff",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 538,
+    "timestamp": "00:27:34,420",
+    "text_en": "processor, and we can either use it to read stuff",
+    "text_zh": "processor, and we can either use it to read stuff",
+    "issue": "Chinese line too long (49 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 539,
+    "timestamp": "00:27:38,140",
+    "text_en": "or to listen to the speaker.",
+    "text_zh": "or to listen to the speaker.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 540,
+    "timestamp": "00:27:40,170",
+    "text_en": "And so if we have too many words on the slide,",
+    "text_zh": "And so if we have too many words on the slide,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 540,
+    "timestamp": "00:27:40,170",
+    "text_en": "And so if we have too many words on the slide,",
+    "text_zh": "And so if we have too many words on the slide,",
+    "issue": "Chinese line too long (46 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 541,
+    "timestamp": "00:27:43,240",
+    "text_en": "it forces people in the audience to read this stuff",
+    "text_zh": "it forces people in the audience to read this stuff",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 541,
+    "timestamp": "00:27:43,240",
+    "text_en": "it forces people in the audience to read this stuff",
+    "text_zh": "it forces people in the audience to read this stuff",
+    "issue": "Chinese line too long (51 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 544,
+    "timestamp": "00:27:49,270",
+    "text_en": "A student of mine did an experiment a few years ago.",
+    "text_zh": "A student of mine did an experiment a few years ago.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 544,
+    "timestamp": "00:27:49,270",
+    "text_en": "A student of mine did an experiment a few years ago.",
+    "text_zh": "A student of mine did an experiment a few years ago.",
+    "issue": "Chinese line too long (52 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 545,
+    "timestamp": "00:27:52,570",
+    "text_en": "He taught some students some web-based programming ideas.",
+    "text_zh": "He taught some students some web-based programming ideas.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 545,
+    "timestamp": "00:27:52,570",
+    "text_en": "He taught some students some web-based programming ideas.",
+    "text_zh": "He taught some students some web-based programming ideas.",
+    "issue": "Chinese line too long (57 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 546,
+    "timestamp": "00:28:00,130",
+    "text_en": "Half the information was on slides, he said the other half,",
+    "text_zh": "Half the information was on slides, he said the other half,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 546,
+    "timestamp": "00:28:00,130",
+    "text_en": "Half the information was on slides, he said the other half,",
+    "text_zh": "Half the information was on slides, he said the other half,",
+    "issue": "Chinese line too long (59 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 547,
+    "timestamp": "00:28:04,580",
+    "text_en": "and then for a control group, he reversed it.",
+    "text_zh": "and then for a control group, he reversed it.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 547,
+    "timestamp": "00:28:04,580",
+    "text_en": "and then for a control group, he reversed it.",
+    "text_zh": "and then for a control group, he reversed it.",
+    "issue": "Chinese line too long (45 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 548,
+    "timestamp": "00:28:07,630",
+    "text_en": "And the question was, what did the subjects--",
+    "text_zh": "And the question was, what did the subjects--",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 548,
+    "timestamp": "00:28:07,630",
+    "text_en": "And the question was, what did the subjects--",
+    "text_zh": "And the question was, what did the subjects--",
+    "issue": "Chinese line too long (45 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 549,
+    "timestamp": "00:28:10,960",
+    "text_en": "that is to say, freshmen at his fraternity--",
+    "text_zh": "that is to say, freshmen at his fraternity--",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 549,
+    "timestamp": "00:28:10,960",
+    "text_en": "that is to say, freshmen at his fraternity--",
+    "text_zh": "that is to say, freshmen at his fraternity--",
+    "issue": "Chinese line too long (44 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 550,
+    "timestamp": "00:28:13,240",
+    "text_en": "what did the subjects remember best, what he said,",
+    "text_zh": "what did the subjects remember best, what he said,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 550,
+    "timestamp": "00:28:13,240",
+    "text_en": "what did the subjects remember best, what he said,",
+    "text_zh": "what did the subjects remember best, what he said,",
+    "issue": "Chinese line too long (50 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 551,
+    "timestamp": "00:28:18,040",
+    "text_en": "or what they read on the slide?",
+    "text_zh": "or what they read on the slide?",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 552,
+    "timestamp": "00:28:21,260",
+    "text_en": "And the answer is, what they read on the slide.",
+    "text_zh": "And the answer is, what they read on the slide.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 552,
+    "timestamp": "00:28:21,260",
+    "text_en": "And the answer is, what they read on the slide.",
+    "text_zh": "And the answer is, what they read on the slide.",
+    "issue": "Chinese line too long (47 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 553,
+    "timestamp": "00:28:26,432",
+    "text_en": "When their slides have a lot of material on it,",
+    "text_zh": "When their slides have a lot of material on it,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 553,
+    "timestamp": "00:28:26,432",
+    "text_en": "When their slides have a lot of material on it,",
+    "text_zh": "When their slides have a lot of material on it,",
+    "issue": "Chinese line too long (47 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 554,
+    "timestamp": "00:28:28,390",
+    "text_en": "they don't pay attention to the speaker.",
+    "text_zh": "they don't pay attention to the speaker.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 554,
+    "timestamp": "00:28:28,390",
+    "text_en": "they don't pay attention to the speaker.",
+    "text_zh": "they don't pay attention to the speaker.",
+    "issue": "Chinese line too long (40 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 555,
+    "timestamp": "00:28:30,110",
+    "text_en": "In fact, in the after action report, one of the subjects",
+    "text_zh": "In fact, in the after action report, one of the subjects",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 555,
+    "timestamp": "00:28:30,110",
+    "text_en": "In fact, in the after action report, one of the subjects",
+    "text_zh": "In fact, in the after action report, one of the subjects",
+    "issue": "Chinese line too long (56 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 556,
+    "timestamp": "00:28:33,190",
+    "text_en": "said, I wish you hadn't talked so much.",
+    "text_zh": "said, I wish you hadn't talked so much.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 556,
+    "timestamp": "00:28:33,190",
+    "text_en": "said, I wish you hadn't talked so much.",
+    "text_zh": "said, I wish you hadn't talked so much.",
+    "issue": "Chinese line too long (39 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 559,
+    "timestamp": "00:28:41,000",
+    "text_en": "Well, the last item is eliminate clutter.",
+    "text_zh": "Well, the last item is eliminate clutter.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 559,
+    "timestamp": "00:28:41,000",
+    "text_en": "Well, the last item is eliminate clutter.",
+    "text_zh": "Well, the last item is eliminate clutter.",
+    "issue": "Chinese line too long (41 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 561,
+    "timestamp": "00:28:46,230",
+    "text_en": "No reason even for those bullets.",
+    "text_zh": "No reason even for those bullets.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 562,
+    "timestamp": "00:28:49,710",
+    "text_en": "So the too many words problem is a consequence",
+    "text_zh": "So the too many words problem is a consequence",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 562,
+    "timestamp": "00:28:49,710",
+    "text_en": "So the too many words problem is a consequence",
+    "text_zh": "So the too many words problem is a consequence",
+    "issue": "Chinese line too long (46 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 563,
+    "timestamp": "00:28:51,780",
+    "text_en": "of a crime Microsoft has committed",
+    "text_zh": "of a crime Microsoft has committed",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 564,
+    "timestamp": "00:28:55,410",
+    "text_en": "by allowing you to use fonts that are too small.",
+    "text_zh": "by allowing you to use fonts that are too small.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 564,
+    "timestamp": "00:28:55,410",
+    "text_en": "by allowing you to use fonts that are too small.",
+    "text_zh": "by allowing you to use fonts that are too small.",
+    "issue": "Chinese line too long (48 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 565,
+    "timestamp": "00:28:59,350",
+    "text_en": "So you should all have a sample slide like this",
+    "text_zh": "So you should all have a sample slide like this",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 565,
+    "timestamp": "00:28:59,350",
+    "text_en": "So you should all have a sample slide like this",
+    "text_zh": "So you should all have a sample slide like this",
+    "issue": "Chinese line too long (47 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 566,
+    "timestamp": "00:29:03,570",
+    "text_en": "that you can use to determine what the minimum font",
+    "text_zh": "that you can use to determine what the minimum font",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 566,
+    "timestamp": "00:29:03,570",
+    "text_en": "that you can use to determine what the minimum font",
+    "text_zh": "that you can use to determine what the minimum font",
+    "issue": "Chinese line too long (51 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 567,
+    "timestamp": "00:29:06,240",
+    "text_en": "size is that's easily legible.",
+    "text_zh": "size is that's easily legible.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 568,
+    "timestamp": "00:29:09,480",
+    "text_en": "[INAUDIBLE],, what do you think of those?",
+    "text_zh": "[INAUDIBLE],, what do you think of those?",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 568,
+    "timestamp": "00:29:09,480",
+    "text_en": "[INAUDIBLE],, what do you think of those?",
+    "text_zh": "[INAUDIBLE],, what do you think of those?",
+    "issue": "Chinese line too long (41 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 569,
+    "timestamp": "00:29:14,745",
+    "text_en": "AUDIENCE: Which size is right?",
+    "text_zh": "AUDIENCE: Which size is right?",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 570,
+    "timestamp": "00:29:16,212",
+    "text_en": "PATRICK WINSTON: What's that?",
+    "text_zh": "PATRICK WINSTON: What's that?",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 571,
+    "timestamp": "00:29:17,190",
+    "text_en": "AUDIENCE: Did you ask me what size is right?",
+    "text_zh": "AUDIENCE: Did you ask me what size is right?",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 571,
+    "timestamp": "00:29:17,190",
+    "text_en": "AUDIENCE: Did you ask me what size is right?",
+    "text_zh": "AUDIENCE: Did you ask me what size is right?",
+    "issue": "Chinese line too long (44 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 572,
+    "timestamp": "00:29:19,023",
+    "text_en": "PATRICK WINSTON: Yeah, minimum, maybe.",
+    "text_zh": "PATRICK WINSTON: Yeah, minimum, maybe.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 572,
+    "timestamp": "00:29:19,023",
+    "text_en": "PATRICK WINSTON: Yeah, minimum, maybe.",
+    "text_zh": "PATRICK WINSTON: Yeah, minimum, maybe.",
+    "issue": "Chinese line too long (38 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 574,
+    "timestamp": "00:29:22,770",
+    "text_en": "PATRICK WINSTON: Yeah, he says 40 or 50.",
+    "text_zh": "PATRICK WINSTON: Yeah, he says 40 or 50.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 574,
+    "timestamp": "00:29:22,770",
+    "text_en": "PATRICK WINSTON: Yeah, he says 40 or 50.",
+    "text_zh": "PATRICK WINSTON: Yeah, he says 40 or 50.",
+    "issue": "Chinese line too long (40 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 575,
+    "timestamp": "00:29:24,990",
+    "text_en": "I think that's about right.",
+    "text_zh": "I think that's about right.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 576,
+    "timestamp": "00:29:27,050",
+    "text_en": "35 is beginning to get too small, not necessarily",
+    "text_zh": "35 is beginning to get too small, not necessarily",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 576,
+    "timestamp": "00:29:27,050",
+    "text_en": "35 is beginning to get too small, not necessarily",
+    "text_zh": "35 is beginning to get too small, not necessarily",
+    "issue": "Chinese line too long (49 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 577,
+    "timestamp": "00:29:29,730",
+    "text_en": "because you can't read it, but because you're probably",
+    "text_zh": "because you can't read it, but because you're probably",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 577,
+    "timestamp": "00:29:29,730",
+    "text_en": "because you can't read it, but because you're probably",
+    "text_zh": "because you can't read it, but because you're probably",
+    "issue": "Chinese line too long (54 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 578,
+    "timestamp": "00:29:32,917",
+    "text_en": "using it to get too many words on the slide.",
+    "text_zh": "using it to get too many words on the slide.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 578,
+    "timestamp": "00:29:32,917",
+    "text_en": "using it to get too many words on the slide.",
+    "text_zh": "using it to get too many words on the slide.",
+    "issue": "Chinese line too long (44 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 580,
+    "timestamp": "00:29:37,380",
+    "text_en": "What other crimes do we have?",
+    "text_zh": "What other crimes do we have?",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 581,
+    "timestamp": "00:29:39,940",
+    "text_en": "Well, we have the laser pointer crime.",
+    "text_zh": "Well, we have the laser pointer crime.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 581,
+    "timestamp": "00:29:39,940",
+    "text_en": "Well, we have the laser pointer crime.",
+    "text_zh": "Well, we have the laser pointer crime.",
+    "issue": "Chinese line too long (38 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 582,
+    "timestamp": "00:29:43,755",
+    "text_en": "And for that-- in the old days, when",
+    "text_zh": "And for that-- in the old days, when",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 582,
+    "timestamp": "00:29:43,755",
+    "text_en": "And for that-- in the old days, when",
+    "text_zh": "And for that-- in the old days, when",
+    "issue": "Chinese line too long (36 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 583,
+    "timestamp": "00:29:46,890",
+    "text_en": "we didn't have laser pointers, we used wooden ones,",
+    "text_zh": "we didn't have laser pointers, we used wooden ones,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 583,
+    "timestamp": "00:29:46,890",
+    "text_en": "we didn't have laser pointers, we used wooden ones,",
+    "text_zh": "we didn't have laser pointers, we used wooden ones,",
+    "issue": "Chinese line too long (51 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 584,
+    "timestamp": "00:29:49,120",
+    "text_en": "and people would go waving these things around.",
+    "text_zh": "and people would go waving these things around.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 584,
+    "timestamp": "00:29:49,120",
+    "text_en": "and people would go waving these things around.",
+    "text_zh": "and people would go waving these things around.",
+    "issue": "Chinese line too long (47 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 585,
+    "timestamp": "00:29:52,590",
+    "text_en": "And pretty soon it became almost like a baton twirling contest,",
+    "text_zh": "And pretty soon it became almost like a baton twirling contest,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 585,
+    "timestamp": "00:29:52,590",
+    "text_en": "And pretty soon it became almost like a baton twirling contest,",
+    "text_zh": "And pretty soon it became almost like a baton twirling contest,",
+    "issue": "Chinese line too long (63 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 586,
+    "timestamp": "00:29:59,450",
+    "text_en": "so here's what I recommended in the old days",
+    "text_zh": "so here's what I recommended in the old days",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 586,
+    "timestamp": "00:29:59,450",
+    "text_en": "so here's what I recommended in the old days",
+    "text_zh": "so here's what I recommended in the old days",
+    "issue": "Chinese line too long (44 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 587,
+    "timestamp": "00:30:02,400",
+    "text_en": "for dealing with this kind of pointer.",
+    "text_zh": "for dealing with this kind of pointer.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 587,
+    "timestamp": "00:30:02,400",
+    "text_en": "for dealing with this kind of pointer.",
+    "text_zh": "for dealing with this kind of pointer.",
+    "issue": "Chinese line too long (38 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 589,
+    "timestamp": "00:30:08,970",
+    "text_en": "This is an example of use of a prop.",
+    "text_zh": "This is an example of use of a prop.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 589,
+    "timestamp": "00:30:08,970",
+    "text_en": "This is an example of use of a prop.",
+    "text_zh": "This is an example of use of a prop.",
+    "issue": "Chinese line too long (36 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 591,
+    "timestamp": "00:30:14,070",
+    "text_en": "Jim Glass up there saw this talk about 20 years ago,",
+    "text_zh": "Jim Glass up there saw this talk about 20 years ago,",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 591,
+    "timestamp": "00:30:14,070",
+    "text_en": "Jim Glass up there saw this talk about 20 years ago,",
+    "text_zh": "Jim Glass up there saw this talk about 20 years ago,",
+    "issue": "Chinese line too long (52 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 592,
+    "timestamp": "00:30:17,090",
+    "text_en": "and said, oh, yeah, I remember that talk.",
+    "text_zh": "and said, oh, yeah, I remember that talk.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 592,
+    "timestamp": "00:30:17,090",
+    "text_en": "and said, oh, yeah, I remember that talk.",
+    "text_zh": "and said, oh, yeah, I remember that talk.",
+    "issue": "Chinese line too long (41 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 593,
+    "timestamp": "00:30:19,380",
+    "text_en": "That's the one where you broke the pointer.",
+    "text_zh": "That's the one where you broke the pointer.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 593,
+    "timestamp": "00:30:19,380",
+    "text_en": "That's the one where you broke the pointer.",
+    "text_zh": "That's the one where you broke the pointer.",
+    "issue": "Chinese line too long (43 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 594,
+    "timestamp": "00:30:23,250",
+    "text_en": "It's amazing how props tend to be",
+    "text_zh": "It's amazing how props tend to be",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 595,
+    "timestamp": "00:30:25,200",
+    "text_en": "the things that are remembered.",
+    "text_zh": "the things that are remembered.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 596,
+    "timestamp": "00:30:27,480",
+    "text_en": "Well, now, we don't have physical pointers anymore.",
+    "text_zh": "Well, now, we don't have physical pointers anymore.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 596,
+    "timestamp": "00:30:27,480",
+    "text_en": "Well, now, we don't have physical pointers anymore.",
+    "text_zh": "Well, now, we don't have physical pointers anymore.",
+    "issue": "Chinese line too long (51 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 597,
+    "timestamp": "00:30:32,215",
+    "text_en": "We've got laser pointers.",
+    "text_zh": "We've got laser pointers.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 598,
+    "timestamp": "00:30:35,880",
+    "text_en": "It's a wonder more people aren't driven into epileptic fits",
+    "text_zh": "It's a wonder more people aren't driven into epileptic fits",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "too_long",
+    "index": 598,
+    "timestamp": "00:30:35,880",
+    "text_en": "It's a wonder more people aren't driven into epileptic fits",
+    "text_zh": "It's a wonder more people aren't driven into epileptic fits",
+    "issue": "Chinese line too long (59 chars)"
+  },
+  {
+    "type": "english_only",
+    "index": 599,
+    "timestamp": "00:30:39,090",
+    "text_en": "over this sort of stuff.",
+    "text_zh": "over this sort of stuff.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 600,
+    "timestamp": "00:30:41,190",
+    "text_en": "Well, here's what tends to happen.",
+    "text_zh": "Well, here's what tends to happen.",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 602,
+    "timestamp": "00:30:44,390",
+    "text_en": "这是一幅美丽的递归图，我可以成为它的一部分，",
+    "text_zh": "这是一幅美丽的递归图，我可以成为它的一部分，",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 628,
+    "timestamp": "00:31:55,370",
+    "text_en": "让他们把所有幻灯片打印出来，平铺在桌面上。",
+    "text_zh": "让他们把所有幻灯片打印出来，平铺在桌面上。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 630,
+    "timestamp": "00:32:01,060",
+    "text_en": "当他们这样做时，就很容易看出这场演讲是否过重：",
+    "text_zh": "当他们这样做时，就很容易看出这场演讲是否过重：",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 638,
+    "timestamp": "00:32:27,600",
+    "text_en": "这里还有许多别的\"罪行\"，但我想用\"过重\"之罪",
+    "text_zh": "这里还有许多别的\"罪行\"，但我想用\"过重\"之罪",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 639,
+    "timestamp": "00:32:31,080",
+    "text_en": "来说明——它实在太重这个事实，正是我想说的。",
+    "text_zh": "来说明——它实在太重这个事实，正是我想说的。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 643,
+    "timestamp": "00:32:41,520",
+    "text_en": "但我给你们看这个，是因为它里面留有\"空气\"。",
+    "text_zh": "但我给你们看这个，是因为它里面留有\"空气\"。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 646,
+    "timestamp": "00:32:52,930",
+    "text_en": "但每次转到那几张时，我会给听众时间去读完它们。",
+    "text_zh": "但每次转到那几张时，我会给听众时间去读完它们。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 651,
+    "timestamp": "00:33:06,120",
+    "text_en": "摘自提议举办 1957 年达特茅斯 AI 会议的提案书。",
+    "text_zh": "摘自提议举办 1957 年达特茅斯 AI 会议的提案书。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 657,
+    "timestamp": "00:33:25,680",
+    "text_en": "这是一张\"一次性词（hapax legomenon）\"。",
+    "text_zh": "这是一张\"一次性词（hapax legomenon）\"。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 663,
+    "timestamp": "00:33:49,640",
+    "text_en": "它是一种连你这位观众也无法一眼看懂的内容，",
+    "text_zh": "它是一种连你这位观众也无法一眼看懂的内容，",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 667,
+    "timestamp": "00:34:00,780",
+    "text_en": "\"hapax legomenon\"就是这个意思，这就是例子。",
+    "text_zh": "\"hapax legomenon\"就是这个意思，这就是例子。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 676,
+    "timestamp": "00:34:32,210",
+    "text_en": "给你们看看怎么去巴托斯剧场（Bartos Theater）。",
+    "text_zh": "给你们看看怎么去巴托斯剧场（Bartos Theater）。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 678,
+    "timestamp": "00:34:37,670",
+    "text_en": "在媒体实验室那边；然后穿越这片开阔的空地，",
+    "text_zh": "在媒体实验室那边；然后穿越这片开阔的空地，",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 686,
+    "timestamp": "00:34:57,680",
+    "text_en": "所以把它叫做\"巴托斯剧场\"，名字取得很贴切——",
+    "text_zh": "所以把它叫做\"巴托斯剧场\"，名字取得很贴切——",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 691,
+    "timestamp": "00:35:10,700",
+    "text_en": "这是一段时间前我在 Stata 大楼听过的一次讲座。",
+    "text_zh": "这是一段时间前我在 Stata 大楼听过的一次讲座。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 695,
+    "timestamp": "00:35:26,110",
+    "text_en": "顺便说一句，这已经是第 80 张——第 80 张！",
+    "text_zh": "顺便说一句，这已经是第 80 张——第 80 张！",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 743,
+    "timestamp": "00:37:49,680",
+    "text_en": "被激励的——表现出对自己所做的事情的热情。",
+    "text_zh": "被激励的——表现出对自己所做的事情的热情。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 761,
+    "timestamp": "00:38:47,070",
+    "text_en": "让我给你们一个以这种方式开场的讲座的例子。",
+    "text_zh": "让我给你们一个以这种方式开场的讲座的例子。",
+    "issue": "Chinese text identical to English - possible untranslated"
+  },
+  {
+    "type": "english_only",
+    "index": 774,
+    "timestamp": "00:39:21,520",
+    "text_en": "你可能会说：\"嗯，我们为什么不等到它完成呢？",
+    "text_zh": "你可能会说：\"嗯，我们为什么不等到它完成呢？",
+    "issue": "Chinese text identical to English - possible untranslated"
+  }
+]

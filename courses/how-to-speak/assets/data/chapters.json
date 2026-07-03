@@ -1,0 +1,112 @@
+[
+  {
+    "index": 1,
+    "id": "introduction",
+    "title_en": "Introduction",
+    "title_zh": "开场",
+    "start": "00:16",
+    "end": "03:11",
+    "start_seconds": 16,
+    "end_seconds": 191,
+    "duration_seconds": 175
+  },
+  {
+    "index": 2,
+    "id": "rules_of_engagement",
+    "title_en": "Rules of Engagement",
+    "title_zh": "参与规则",
+    "start": "03:11",
+    "end": "04:15",
+    "start_seconds": 191,
+    "end_seconds": 255,
+    "duration_seconds": 64
+  },
+  {
+    "index": 3,
+    "id": "how_to_start",
+    "title_en": "How to Start",
+    "title_zh": "如何开场",
+    "start": "04:15",
+    "end": "05:38",
+    "start_seconds": 255,
+    "end_seconds": 338,
+    "duration_seconds": 83
+  },
+  {
+    "index": 4,
+    "id": "four_sample_heuristics",
+    "title_en": "Four Sample Heuristics",
+    "title_zh": "四个启发式方法",
+    "start": "05:38",
+    "end": "10:17",
+    "start_seconds": 338,
+    "end_seconds": 617,
+    "duration_seconds": 279
+  },
+  {
+    "index": 5,
+    "id": "tools_time_place",
+    "title_en": "The Tools: Time and Place",
+    "title_zh": "时间与地点",
+    "start": "10:17",
+    "end": "13:24",
+    "start_seconds": 617,
+    "end_seconds": 804,
+    "duration_seconds": 187
+  },
+  {
+    "index": 6,
+    "id": "tools_boards_props_slides",
+    "title_en": "The Tools: Boards, Props, and Slides",
+    "title_zh": "黑板、道具与幻灯片",
+    "start": "13:24",
+    "end": "36:30",
+    "start_seconds": 804,
+    "end_seconds": 2190,
+    "duration_seconds": 1386
+  },
+  {
+    "index": 7,
+    "id": "informing",
+    "title_en": "Informing: Promise, Inspiration, How to Think",
+    "title_zh": "信息型演讲",
+    "start": "36:30",
+    "end": "41:30",
+    "start_seconds": 2190,
+    "end_seconds": 2490,
+    "duration_seconds": 300
+  },
+  {
+    "index": 8,
+    "id": "persuading",
+    "title_en": "Persuading: Oral Exams, Job Talks, Getting Famous",
+    "title_zh": "说服型演讲",
+    "start": "41:30",
+    "end": "53:06",
+    "start_seconds": 2490,
+    "end_seconds": 3186,
+    "duration_seconds": 696
+  },
+  {
+    "index": 9,
+    "id": "how_to_stop",
+    "title_en": "How to Stop: Final Slide, Final Words",
+    "title_zh": "如何结束",
+    "start": "53:06",
+    "end": "56:35",
+    "start_seconds": 3186,
+    "end_seconds": 3395,
+    "duration_seconds": 209
+  },
+  {
+    "index": 10,
+    "id": "final_words",
+    "title_en": "Final Words: Joke, Thank You, Examples",
+    "title_zh": "结束语",
+    "start": "56:35",
+    "end": "01:00:28",
+    "start_seconds": 3395,
+    "end_seconds": 3822,
+    "duration_seconds": 427
+  }
+]

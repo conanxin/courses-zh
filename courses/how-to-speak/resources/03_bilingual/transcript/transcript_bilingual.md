@@ -1,0 +1,1113 @@
+# 如何演讲 — 中英对照讲稿
+
+> MIT OCW RES.TLL-005 | 主讲：帕特里克·温斯顿 (Patrick Winston)
+>
+> Bilingual Transcript: English Original + Chinese Translation
+>
+> 本文件为英文原文与中文翻译的逐句对照版本，便于学习者同时理解原意与译文。
+
+---
+
+## 开场 Introduction [00:16 - 03:11]
+
+**PATRICK WINSTON:**
+
+The Uniform Code of Military Justice specifies court martial for any officer who sends a soldier into battle without a weapon.
+
+**帕特里克·温斯顿：**
+
+《统一军事司法法典》规定，任何军官若把士兵送上战场却不给他武器，将受到军事法庭的审判。
+
+---
+
+**PATRICK WINSTON:**
+
+There ought to be a similar protection for students because students shouldn't go out into life without the ability to communicate, and that's because your success in life will be determined largely by your ability to speak, your ability to write, and the quality of your ideas, in that order.
+
+**帕特里克·温斯顿：**
+
+我们应该对学生们也有类似的保护——因为学生们走向社会时，不应该不具备沟通交流的能力。原因在于：你一生的成功，很大程度上将取决于你的演讲能力、写作能力，以及你思想的质量，三者按此排序。
+
+---
+
+**PATRICK WINSTON:**
+
+I know that I can be successful in this because the quality of communication, your speaking, your writing, is largely determined by this formula. It's a matter of how much knowledge you have, how much you practice with that knowledge, and your inherent talent, and notice that the T is very small. What really matters is what you know.
+
+**帕特里克·温斯顿：**
+
+我知道我能在这件事上取得成功，因为沟通的质量——你的演讲、你的写作——在很大程度上是由这个公式决定的。它取决于你掌握多少知识、你用这些知识做过多少练习，以及你的天赋——注意这里的 T 是非常小的。真正起决定作用的是你知道什么。
+
+---
+
+**PATRICK WINSTON:**
+
+This point came to me suddenly a few decades ago when I was skiing at Sun Valley. I had heard that it was Celebrity Weekend, and one of the celebrities was Mary Lou Retton, famous Olympic gymnast, perfect 10s in the vault. And I heard that she was a novice at skiing, so when the opportune moment arrived, I looked over on the novice slope and saw this young woman who, when she became unbalanced, went like that. And I said that's got to be her. That must be the gymnast.
+
+**帕特里克·温斯顿：**
+
+这个观点是几十年前我突然领悟的。当时我正在太阳谷（Sun Valley）滑雪。我听说那是个名人周末，其中一位名人是玛丽·卢·勒顿（Mary Lou Retton），著名的奥运体操运动员，跳马拿到满分 10 分。我听说她是个滑雪初学者，所以当合适的机会出现时，我朝初学者雪道那边望去，看到一位年轻女士，她失去平衡时，身体是这个样子的（演示）。我心想，那一定是她了。那位体操运动员肯定就是她。
+
+---
+
+**PATRICK WINSTON:**
+
+But then, it occurred to me, I'm a much better skier than she is, and she's an Olympic athlete—not only an ordinary Olympic athlete, an outstanding one. And I was a better skier because I had the K, and I had the P, and all she had was the T. So you can get a lot better than people who may have inherent talents if you have the right amount of knowledge.
+
+**帕特里克·温斯顿：**
+
+但接着我突然想到：我滑雪比她好得多，而她是一名奥运运动员——不仅是一名普通的奥运运动员，还是一名杰出的奥运运动员。我滑雪比她好，是因为我有 K（知识），我有 P（练习），而她只有 T（天赋）。所以如果你拥有足够的知识，你可以远远超过那些或许有天赋的人。
+
+---
+
+**PATRICK WINSTON:**
+
+So that's what my objective is today, and here's my promise. Today, you will see some examples of what you can put in your armamentarium of speaking techniques, and it will be the case that some one of those examples, some heuristic, some technique, maybe only one, will make—will be the one that gets you the job.
+
+**帕特里克·温斯顿：**
+
+这就是我今天的目标，这也是我的承诺。今天，你将看到一些可以收入你的"演讲武器库"的范例——一些启发式方法、一些技巧，也许其中只要有一条、只要有一条就能帮到你、成为让你拿到那份工作的关键。
+
+---
+
+**PATRICK WINSTON:**
+
+And so this is a very non-linear process. You never know when it's going to happen, but that is my promise. By the end of the next 60 minutes, you'll have been exposed to a lot of ideas, some of which you'll incorporate into your own repertoire, and they will ensure that you get the maximum opportunity to have your ideas valued and accepted by the people you speak with.
+
+**帕特里克·温斯顿：**
+
+这是一个高度非线性的过程。你永远不知道它何时会发生，但这就是我的承诺：到接下来这 60 分钟结束时，你将接触到大量想法，其中一些你会纳入到自己的技能库中，它们将确保你获得最大的机会，让你的想法得到与你交谈之人的重视和认可。
+
+---
+
+## 参与规则 Rules of Engagement [03:11 - 04:15]
+
+**PATRICK WINSTON:**
+
+Now, in order to do that, we have to have a rule of engagement, and that is no laptops, no cell phones. So if you could close those, I'll start up as soon as you're done. Some people ask why that is a rule of engagement, and the answer is, we humans only have one language processor.
+
+**帕特里克·温斯顿：**
+
+要做到这一点，我们必须先制定一条参与规则——不用笔记本电脑，不用手机。所以如果你们能合上它们，等你们弄完我就开始。有人会问为什么这是参与规则，答案是：我们人类只有一套语言处理器。
+
+---
+
+**PATRICK WINSTON:**
+
+And if your language processor is engaged browsing the web or reading your email, you're distracted. And worse yet, you distract all of the people around you. Studies have shown that. And worse yet, if I see a open laptop somewhere back there or up here, it drives me nuts, and I do a worse job. And so that ensures that all of your friends who are paying attention don't get the performance that they came to have. So that's it for preamble. Let's get started.
+
+**帕特里克·温斯顿：**
+
+如果你的语言处理器正忙于浏览网页或阅读邮件，你就被分散了注意力。更糟糕的是，你会分散你周围所有人的注意力。研究已经证明了这一点。再糟糕的是，如果我在后面或前面某处看到一台打开的笔记本电脑，我会心烦意乱，我就会讲得更差。这会让所有正在专注听讲的朋友们得不到他们本应获得的演讲效果。所以序言部分就到这里，我们正式开始。
+
+---
+
+## 如何开场 How to Start [04:15 - 05:38]
+
+**PATRICK WINSTON:**
+
+First thing we talk about, of course, is how to start. Some people think the right thing to do is to start a talk with a joke. I don't recommend it, and the reason is that, in the beginning of a talk, people are still putting their laptops away. They're becoming adjusted to your speaking parameters, to your vocal parameters, and they're not ready for a joke. So it doesn't work very well. They usually fall flat.
+
+**帕特里克·温斯顿：**
+
+我们要谈的第一件事，当然就是如何开场。一些人认为正确的开场方式是讲一个笑话。我不推荐这样做，原因是：在演讲开始时，听众还在收拾他们的笔记本电脑。他们还在适应你的说话参数、你的声音参数，他们还没准备好听笑话。所以笑话效果往往不好，通常会冷场。
+
+---
+
+**PATRICK WINSTON:**
+
+What you want to do instead is start with empowerment promise. You want to tell people what they're going to know at the end of the hour that they didn't know at the beginning of the hour. It's an empowerment promise. It's the reason for being here.
+
+**帕特里克·温斯顿：**
+
+你应该做的，是用一个"赋能承诺"开场。你要告诉人们，在这一个小时结束时，他们会知道些什么——而这些是他们在这一小时开始时不知道的。这就是赋能承诺。这就是你来到这里的理由。
+
+---
+
+**PATRICK WINSTON:**
+
+What would be an example? Oh, I see. At the end of this 60 minutes, you will know things about speaking you don't know now, and something among those things you know will make a difference in your life. Yeah, that's an empowerment promise, so that's the best way to start.
+
+**帕特里克·温斯顿：**
+
+什么算一个例子呢？哦，我明白了。嗯，在这次 60 分钟结束时，你将了解一些你现在还不知道的演讲知识，而在这些你将知道的事情中，有一件将改变你的人生。嗯，这就是赋能承诺，所以这是最好的开场方式。
+
+---
+
+## 四个启发式方法 Four Sample Heuristics [05:38 - 10:17]
+
+**PATRICK WINSTON:**
+
+So now that I've talked a little bit about how to start, what I want to do is give you some samples of heuristics that are always on my mind when I give a talk, and first of these heuristics is that it's a good idea to cycle on the subject. Go around it. Go round it again. Go round it again.
+
+**帕特里克·温斯顿：**
+
+既然我已经稍微谈了如何开场，现在我想做的是，给你们展示一些我每次演讲时脑子里总会浮现的"启发式方法"的样本，第一个启发式方法是：对主题做循环强化。绕着它讲一圈，再绕一圈，再绕一圈。
+
+---
+
+**PATRICK WINSTON:**
+
+Some people say, tell him what you want to tell him. Tell him again, and then tell him a third time, as if people weren't intelligent. But the point is—the reason is—well, there are many reasons, one of which is, at any given moment, about 20% of you will be fogged out no matter what the lecture is. So if you want to ensure that the probability that everybody gets it is high, you need to say it three times.
+
+**帕特里克·温斯顿：**
+
+有人会说：把你想要讲的告诉他，再告诉他一遍，然后第三遍再告诉他一次，仿佛别人都不太聪明似的。但要点是——理由是——原因有很多，其中之一是：在任何一个时刻，你们中大约有 20% 的人会走神，无论讲座主题是什么。所以如果你想确保每个人都能接收到信息的概率很高，你需要说三遍。
+
+---
+
+**PATRICK WINSTON:**
+
+So cycling is one of the things that I always think about when I give a talk. Another thing I think about is, in explaining my idea, I want to build a fence around it so that it's not confused with somebody else's idea. So if you were from Mars, and I was teaching you about what an arch is, I might say to you, well, that's an arch. And that's not to be confused with some other things that other people might think is—this is not an arch. That's not an arch.
+
+**帕特里克·温斯顿：**
+
+所以循环强化是我每次演讲时都会想到的事情之一。另一件我会想到的事是：在解释我的想法时，我要在它周围"建一个围栏"，让它不会与别人的想法混淆。如果你是从火星来的，我要教给你什么是"拱门"，我可能会对你说：嗯，这就是一个拱门。这不要与其他人可能以为是——这不是一个拱门，那也不是一个拱门。
+
+---
+
+**PATRICK WINSTON:**
+
+I'm building a fence around my idea so that it can be distinguished from somebody else's idea. So in a more technical sense, I might say, well, my algorithm might seem similar to Jones's algorithm, except his is exponential, and mine's linear. That's putting a fence around your idea so that people can not be confused about how it might relate to something else.
+
+**帕特里克·温斯顿：**
+
+我正在围绕我的想法建立围栏，以便它能与别人的想法区分开。所以用一个更技术化的例子，我可能会说：嗯，我的算法可能看起来与 Jones 的算法相似，但他的算法是指数级的，而我的算法是线性的。这就是围绕你的想法建立围栏，让人们不会混淆它与其他东西的关系。
+
+---
+
+**PATRICK WINSTON:**
+
+The third thing on this list of samples is the idea of verbal punctuation. And the idea here is that, because people will occasionally fog out and need to get back on the bus, you need to provide some landmark places where you're announcing that it's a good time to get back on.
+
+**帕特里克·温斯顿：**
+
+这张清单上的第三个启发式是"语言标点"的概念。其思想是：因为人们偶尔会走神，需要重新回到"公共汽车"上来，你需要提供一些地标式的节点，向听众宣布这里是一个重新跟上进度的好时机。
+
+---
+
+**PATRICK WINSTON:**
+
+So I might, in this talk, say something about this being my outline. The first thing we're going to do is talk about how to start. Then we're going to deal with these four samples, and among these four samples, I've talked about the first idea—that's cycling. The second idea, building—and now, the third idea is verbal punctuation.
+
+**帕特里克·温斯顿：**
+
+所以我可能在这场演讲里说类似下面的话——这就是我的大纲。第一件事我们要做的是讨论如何开场。然后我们要讨论这四个启发式样本，而这四个样本中，我已经讲了第一个想法——也就是循环强化。第二个想法，建围栏——而现在，第三个想法是语言标点。
+
+---
+
+**PATRICK WINSTON:**
+
+So I'm enumerating and providing numbers. I'm giving you a sense that there's a seam in the talk, and you can get back on. So now, we're on a roll, and since we're on a roll, can you guess what fourth idea might be here—an idea that helps people get back on the bus?
+
+**帕特里克·温斯顿：**
+
+所以我在列举并提供编号。我让你们感觉到演讲中有一道"接缝"，你们可以从这里重新回到进度上。现在我们正在顺利推进，既然我们进展顺利，你能猜到第四个想法可能是什么吗？——一个帮助人们重新回到进度上来的想法？
+
+---
+
+**AUDIENCE:** Ask a question.
+
+**听众：** 问一个问题。
+
+**PATRICK WINSTON:** Yes?
+
+**帕特里克·温斯顿：** 是吗？
+
+**AUDIENCE:** Ask a question. [INAUDIBLE].
+
+**听众：** 问一个问题。[听不清]
+
+**PATRICK WINSTON:** Ask a question, yes. Thank you. So ask a question.
+
+**帕特里克·温斯顿：** 问一个问题，是的。谢谢你。所以要问一个问题。
+
+---
+
+**PATRICK WINSTON:**
+
+And so I will ask a question—how much dead air can there be? How long can I pause? I counted seven seconds. It seemed like an eternity to me to wait and not say anything for seven seconds, but that's the standard amount of time you can wait for an answer. And of course, the question has to be carefully chosen. It can't be too obvious because then people will be embarrassed to say it, but the answers can't be too hard because then nobody will have anything to say.
+
+**帕特里克·温斯顿：**
+
+于是我会问一个问题——可以有多少秒的沉默？我可以停顿多久？我数了一下，七秒钟。等待七秒钟而不说任何话，对我来说感觉像永恒一样漫长，但这就是你等待回答的标准时长。当然，问题必须精心挑选。它不能太显而易见，否则人们会因为答案太普通而不好意思说；但答案也不能太难，否则没人有话可说。
+
+---
+
+**PATRICK WINSTON:**
+
+So here are some sample heuristics you can put in your armamentarium and build up your repertoire of ideas about presentation. And now, if this persuades you that there is something to know, that there is knowledge, then I've already succeeded because what I want to convince you of, is if you watch the speakers you admire and feel are effective, and ask yourselves why they're successful, then you can build up your own personal repertoire and develop your own personal style. And that's my fundamental objective, and the rest of this talk is about some of the things that are in my armamentarium that I think are effective.
+
+**帕特里克·温斯顿：**
+
+所以这里有一些样本启发式，你可以把它们收入你的武器库，充实你关于演讲的想法储备。如果这能让你们相信演讲是有些东西需要去学的，是有知识可言的，那么我已经成功了——因为我想让你们相信的是：如果你观察那些你欣赏、认为有效的演讲者，问问自己他们为什么成功，那么你们就能构建起自己的个人储备，发展出自己的个人风格。这是我最根本的目标，演讲剩下的部分将讨论我武器库中我认为有效的某些东西。
+
+---
+
+## 工具之一 — 时间与地点 The Tools: Time and Place [10:17 - 13:24]
+
+**PATRICK WINSTON:**
+
+So next thing on our agenda, as we start to discuss these other things, is a discussion of time and place. So what do you think is a good time to have a lecture? 11 AM? Yeah. And the reason is most people at MIT are awake by then, and hardly anyone has gone back to sleep. It's not right after a meal. People aren't fatigued from this or that. It's a great time to have a lecture.
+
+**帕特里克·温斯顿：**
+
+我们议程的下一项，当我们开始讨论这些其他话题时，是关于时间和地点的讨论。所以你们觉得举办讲座的好时间是几点？上午 11 点？是的。原因是大多数 MIT 的人到那时已经醒了，而且几乎没有人已经重新睡着。这不是在饭后，人们既不会因为这事儿也不会因为那事儿而感到疲倦。这是举办讲座的绝佳时间。
+
+---
+
+**PATRICK WINSTON:**
+
+So that brings me, next, to the question of what about the place? And the most important thing about the place is that it be well lit. This room is well lit. Problem with other kinds of rooms is that we humans, whenever the lights go down, or whenever the room is dimly lighted, it signals that we should go to sleep.
+
+**帕特里克·温斯顿：**
+
+这就把我们带到下一个问题：地点呢？关于地点最重要的事情是光线要充足。这个房间光线很充足。其他类型的房间的问题在于，我们人类每当灯暗下来，或者每当房间昏暗，就会发出"该睡觉了"的信号。
+
+---
+
+**PATRICK WINSTON:**
+
+So whenever I go somewhere to give a talk, even today, the first thing I do when I speak to the audio-visual people is say, keep the lights full up. Oh, they might reply, people will see the slides better if we turn the lights off, and then I reply, it's extremely hard to see slides through closed eyelids.
+
+**帕特里克·温斯顿：**
+
+所以无论何时我到某地去演讲，即使在今天，我做的第一件事就是告诉视听人员："把灯全开。"哦，他们可能会反驳说："如果把灯关掉，大家看幻灯片会更清楚。"而我就会回答："闭着眼睛是极难看清幻灯片的。"
+
+---
+
+**PATRICK WINSTON:**
+
+What else can you say about the place? Well, the place should be cased, and I mean that in a colloquial sense, of like if you're robbing a bank, you would go to the bank some occasions before to see what it's like, so there are no surprises when you do your robbery. So whenever I go somewhere to speak, the first thing I ask my host to do is to take me to the place where I'll be speaking so that if there are any weirdnesses, I'll be able to deal with it.
+
+**帕特里克·温斯顿：**
+
+关于地点你还能说些什么呢？嗯，地点应该被"踩点"——我是用这个词的通俗含义，就像你要抢银行，你会提前几天去银行看看是什么样的，这样真正动手时就没有意外。所以无论何时我去某地演讲，我请主人做的第一件事就是带我去我将要演讲的地点，这样如果有奇怪的地方，我能想办法处理。
+
+---
+
+**PATRICK WINSTON:**
+
+Sometimes, it might require some intervention. Sometimes, it just might require me to understand what the challenges are. So when I came here this morning, I did what I typically do. I imagined that all the seats were filled with disinterested farm animals, and that way, I knew that, no matter how bad it was, it wouldn't be as bad as that.
+
+**帕特里克·温斯顿：**
+
+有时候这可能需要一些干预，有时候只需要我了解挑战是什么。所以今天早上我来这里的时候，我做了我通常会做的事。我想象所有座位都坐满了不感兴趣的农场动物，这样我知道无论情况多糟，也不会比那更糟。
+
+---
+
+**PATRICK WINSTON:**
+
+So finally, it should be reasonably populated. It should be the case that—if there were 10 people in this hall, everyone would be wondering, what's going on that's so much more interesting that nobody's here. So you want to get a right sized place that doesn't have to be packed, but it has to be more than half full.
+
+**帕特里克·温斯顿：**
+
+最后，它应该有合理的人数。应该是这种情况——如果这个大厅只有 10 个人，每个人都会想：是什么别的事那么有趣以至于没人来听呢？所以你想要一个规模合适的场所——不必坐满，但至少要过半。
+
+---
+
+## 工具之二 — 黑板、道具与幻灯片 The Tools: Boards, Props, and Slides [13:24 - 36:30]
+
+**PATRICK WINSTON:**
+
+So those are some thoughts about a time and place. Next thing I want to talk about is a subject of boards and props and slides. Well, these are the tools of the trade. I believe that this is the right tool for speaking when your purpose is informing. The slides are good when your purpose is exposing, but this is what I use when I'm informing, teaching, lecturing, and there's several reasons why I use it.
+
+**帕特里克·温斯顿：**
+
+这些就是关于时间和地点的一些想法。接下来我想谈的是黑板、道具和幻灯片这个话题。嗯，这些就是演讲的工具。我相信，当我演讲的目的是"告知"时，黑板是正确的工具。幻灯片在你的目的是"展示"时是合适的，但这是我在我做告知、教学、讲座时使用的工具，我使用它有几个原因。
+
+---
+
+**PATRICK WINSTON:**
+
+For one thing, when you use the board, you have a graphic quality. It's the case that, when you have a board, then you can easily exploit the fact that you can use graphics in your presentation. So that's the graphic quality that I like, and the next thing I like is the speed property. The speed with which you write on the blackboard is approximately the speed at which people can absorb ideas. If you go flipping through a bunch of slides, nobody can go that fast.
+
+**帕特里克·温斯顿：**
+
+首先，当你使用黑板时，你有图形质量。事实是，当你有一块黑板时，你可以很容易地利用这一点——你可以在演讲中使用图形。这就是我喜欢的图形质量，其次我喜欢的是速度特性。你在黑板上书写的速度大致上就是人们吸收想法的速度。如果你翻过一堆幻灯片，没有人能跟上那种速度。
+
+---
+
+**PATRICK WINSTON:**
+
+Finally, one great property of a board is that it can be a target. Many people who are novices at speaking find themselves suddenly aware of their hands. It's as if their hands were private parts that shouldn't be exposed in public, so right away, they go into the pockets, and this is considered insulting in some parts of the world.
+
+**帕特里克·温斯顿：**
+
+最后，黑板的一个伟大特性是它可以成为目标。许多演讲新手会突然意识到自己的手——仿佛他们的手是私处，不应在公共场合展示，所以立刻，他们就把手插进口袋，这在世界某些地方被认为是冒犯。
+
+---
+
+**PATRICK WINSTON:**
+
+I was once in a convent in Serbia, and my host—as soon as we entered, a nun came up to us and offered us a refreshment. And I was about to say, no, thank you, and he said, eat that stuff or die. It's a question of local custom and politeness. But then before anything happened there, the nun pulled my hands out like this because it was extraordinarily insulting in that culture to have your hands behind your back.
+
+**帕特里克·温斯顿：**
+
+我曾经在塞尔维亚的一座修道院，我的东道主——我们刚一进去，一位修女走上前来给我们递上一份点心。我正要开口说"不用了，谢谢"，他却说："把那东西吃了，否则会死。"这是当地习俗和礼貌的问题。但在那儿发生任何事之前，那位修女把我的手拉了出来，像这样，因为在那种文化里手放在背后是极其无礼的。
+
+---
+
+**PATRICK WINSTON:**
+
+I was once watching Seymour Papert give a lecture, and I thought it was terrific. So I went a second time—first time to absorb the content, second time to note style. And what I discovered is that Papert was constantly pointing at the board. And then I thought about it a little while, and I noted that none of the stuff he was pointing to had anything to do with what he was saying. Nevertheless, it was an effective technique.
+
+**帕特里克·温斯顿：**
+
+我曾经看过 Seymour Papert 做讲座，我觉得很精彩。所以我去了第二次——第一次是为了吸收内容，第二次是为了观察风格。我发现 Papert 一直在指着黑板。然后我想了一会儿，我注意到他指的那些内容与他说的内容并没有任何关系。然而，那依然是一个有效的技巧。
+
+---
+
+**PATRICK WINSTON:**
+
+So that's just a little bit about the virtue of blackboards. Now, I want to talk about props. The custodians of knowledge about props are the playwrights. Many decades ago, I saw a play by Henrik Ibsen. It was Hedda Gabler. I remember vaguely that it was about a woman in an unhappy marriage, and her husband was in competition for an academic job with somebody else.
+
+**帕特里克·温斯顿：**
+
+所以这只是一点关于黑板优点的事。现在我想谈谈道具。关于道具的知识守护者是剧作家们。很多很多年前，我看过 Henrik Ibsen 的一个剧本。是《Hedda Gabler》。我依稀记得它讲的是一位婚姻不幸的女人，她的丈夫正在和别人竞争一个学术职位。
+
+---
+
+**PATRICK WINSTON:**
+
+Anyhow, as the play opens, there's a potbellied stove, and in the beginning of the play, the potbelly stove, with its open door, just has some slightly glowing embers. But the potbellied stove is always there, and as tension mounts in the play, and you see this manuscript, this prop that Ibsen so artfully used, you just know that something's going to happen, because as the play goes on, the fire gets bigger and hotter and finally all consuming, and you just know that that manuscript is going to go into that fire. This memorable thing is what I remember about the play.
+
+**帕特里克·温斯顿：**
+
+无论如何，剧目开场时，有一个圆肚炉，在剧目开始时，圆肚炉敞着炉门，里面只有一些微微发光的余烬。但那个圆肚炉始终在那儿，随着剧目中紧张氛围的加剧，你会看到那份手稿——Ibsen 那么巧妙地使用的那件道具——你就知道有什么事要发生了，因为随着剧情推进，火越烧越大、越来越旺，最后吞噬一切，你就知道那份手稿一定会被扔进那团火里。这个令人难忘的事情就是我对这部剧的全部记忆。
+
+---
+
+**PATRICK WINSTON:**
+
+So playwrights have got this all figured out, but on the other hand, they're not the only people who can use props. Here's an example of the use of a prop, also due to Seymour Papert. He was talking about how it's important to look at the problem in the right way, and here's an example that not only teaches that, but makes it possible for you to embarrass your friends in mechanical engineering.
+
+**帕特里克·温斯顿：**
+
+所以剧作家们把这些都弄明白了，但另一方面，他们不是唯一能使用道具的人。这里还有一个使用道具的例子，也来自 Seymour Papert。他在讲"用正确的方式看待问题"很重要，并给出了一个不仅能教这个道理、还能让你让你的机械工程朋友们感到尴尬的范例。
+
+---
+
+**PATRICK WINSTON:**
+
+So here's what you do. Take a bicycle wheel, and you start it spinning. And then you put some torque on the axle, or equivalently, you blow on the edge. And the issue is, does it go that way, or does it go that way? Now, the mechanical engineers will immediately say, oh, yes, I see—right hand screw wheel. And they'll put their fingers in this position, but forget exactly how to align their fingers with the various aspects of the problem.
+
+**帕特里克·温斯顿：**
+
+方法是这样的：拿一个自行车轮子，让它开始旋转。然后你在车轴上施加一个扭矩，或者等效地，你在轮缘上吹一口气。问题是：它会往那个方向转，还是往这个方向转？现在，机械工程师会立刻说：哦，是的，我明白了——右手螺旋法则。他们会把手指放在这个位置，但不一定能完全把手指与问题的各个方面对齐。
+
+---
+
+**PATRICK WINSTON:**
+
+So here's what you do. You take some duct tape, and you put it around the part of the wheel like that. And now, you start to think about, not the whole wheel, but just a little piece that's underneath the duct tape. So here, that piece comes rolling over the top, and at this point, you blow on it with a puff of air. Forgetting about the rest of the wheel, what happens to that little piece that's under the duct tape?
+
+**帕特里克·温斯顿：**
+
+方法是这样的：拿一卷管道胶带，把它贴在轮子的这一部分周围，像这样。现在，你开始思考的，不是整个轮子，而是胶带下面那一小段。这里，那一小段从顶部滚下来，在这一点上，你用一股气流吹它。忘掉轮子的其余部分，胶带下面那一小段会发生什么？
+
+---
+
+**PATRICK WINSTON:**
+
+So the only thing that can happen is that the wheel goes over like that. And so now, you'll never wonder again because you're thinking about the problem in the right way, and it's demonstrated by the use of a prop.
+
+**帕特里克·温斯顿：**
+
+所以唯一可能发生的就是轮子往这边倒过来。所以现在你再也不会迷惑了，因为你是在用正确的方式思考这个问题，而这是通过使用道具来证明的。
+
+---
+
+**PATRICK WINSTON:**
+
+Another example I like to remember is one from when I was taking 8.01. Alan Lazarus was the instructor at the time, and he was talking about the conservation of energy, kinetic and potential. And there was a long wire in a ceiling in 26-100 attached to a much bigger steel ball. Lazarus took the ball up against the wall like this. He put his head flat against the wall to steady himself, and then he let go, and the pendulum takes many seconds to go over and back, and then gently kisses Lazarus's nose.
+
+**帕特里克·温斯顿：**
+
+另一个我喜欢的例子来自我上 8.01 课的时候。当时的讲师是 Alan Lazarus。他在讲能量守恒，动能和势能。在 26-100 的天花板上有一根长长的钢丝，连着一个大得多的钢球。Lazarus 把球抬到墙边，像这样。他把自己的头平贴在墙上以稳定自己，然后放手，摆锤花了许多秒摆过去又摆回来，然后轻轻吻了一下 Lazarus 的鼻子。
+
+---
+
+**PATRICK WINSTON:**
+
+It's interesting. Whenever surveys are taken, students always say more chalk, less PowerPoint. And why would that be? Props are also very effective. Why would that be? I'll give you my lunatic fringe view on this. It has to do with what I would call empathetic mirroring. When you're sitting up there watching me write on the board, all those little mirror neurons in your head, I believe, become actuated, and you can feel yourself writing on the blackboard.
+
+**帕特里克·温斯顿：**
+
+有趣的是。每当进行调查时，学生们总是说"多一些粉笔，少一些 PowerPoint"。为什么会这样？道具也很有效。为什么会这样？我会给你们我那"疯子派"的观点。它与我所称的"共情镜像"有关。当你坐在那里看着我写黑板时，我相信你脑中所有那些小小的镜像神经元都会被激活，你会感到自己正在黑板上写字。
+
+---
+
+**PATRICK WINSTON:**
+
+I repeat, I think they're for exposing ideas, not for teaching ideas, but that's what we do in a job talk or conference talk—expose ideas. We don't teach them. So let me tell you a little bit about my views on that.
+
+**帕特里克·温斯顿：**
+
+我再说一遍，我认为它们是用来"展示"想法的，而不是用来"教"想法的，但这就是我们在求职报告或会议报告中所做的——展示想法。我们不是去教它们。所以让我告诉你们一些我的看法。
+
+---
+
+**PATRICK WINSTON:**
+
+I remember, once, I was in Terminal A at Logan Airport. I'd just come back from a really miserable conference, and the flight was really horrible. It was one of those that feels like an unbalanced washing machine. And for the only time in my life, I decided to stop on my way to my car and have a cup of coffee and relax a little bit.
+
+**帕特里克·温斯顿：**
+
+我记得有一次，我在 Logan 机场的 A 航站楼。我刚从一场糟糕透顶的会议回来，航班也很糟糕。是那种感觉像一台失去平衡的洗衣机的那种航班。在我这辈子唯一的一次，我决定在去我车的路上停下来，喝杯咖啡放松一下。
+
+---
+
+**PATRICK WINSTON:**
+
+And as I was there for a few minutes, someone came up to me and said, are you Professor Winston? I think so, I said. I don't know. I guess I was trying to be funny. In any event, he said, I'm on my way to Europe to give a job talk. Would you mine critiquing my slides? Not at all, I said. You have too many, and they have too many words.
+
+**帕特里克·温斯顿：**
+
+当我坐在那儿几分钟时，有人走过来对我说："您是温斯顿教授吗？""我想是的，"我说。我不知道。我猜我是在试图搞笑。不管怎样，他说："我正要去欧洲做一个求职报告。您介意点评一下我的幻灯片吗？""一点也不，"我说。"你的幻灯片太多了，而且每张上面字太多了。"
+
+---
+
+**PATRICK WINSTON:**
+
+How did you know, he said, thinking perhaps I had seen a talk of his before. I hadn't. My reply was, because it's always true. There are always too many slides, always too many words. So let me show you some extreme examples of how not to use slides.
+
+**帕特里克·温斯顿：**
+
+"您怎么知道的？"他说，以为我也许看过他之前的演讲。我没有。我的回答是："因为这永远是真的。总是有太多幻灯片，总是字太多。"所以让我给你们看一些不使用幻灯片的极端例子。
+
+---
+
+**PATRICK WINSTON:**
+
+For this demonstration, I need to be way over here and when I get over here, then I can start to say things like, one of the things you shouldn't do is read your transparencies. People in your audience know how to read, and reading will just annoy them.
+
+**帕特里克·温斯顿：**
+
+为了做这个演示，我需要远到那边，当我到了那边，我就可以开始说类似这样的话：你不应该做的事情之一是朗读你的投影胶片。你观众席里的人会读，你来朗读只会让他们恼火。
+
+---
+
+**PATRICK WINSTON:**
+
+You want the slides to be condiments to what you're saying, not the main event or the opposite way around. So how can we fix this? Step number one is to get rid of the background junk. That's always distraction. Step number two is to get rid of the words.
+
+**帕特里克·温斯顿：**
+
+你希望幻灯片是你所说的"调味料"，而不是主体，或者反过来也一样。所以我们怎么解决这个问题呢？第一步，去掉背景垃圾。那永远是干扰。第二步，去掉文字。
+
+---
+
+**PATRICK WINSTON:**
+
+What else can we do to simplify this? Well, we can get rid of the logos. We don't need them. What else can we do? Get rid of the title. Now, I want to talk to you about some rules for slide preparation. I'm telling you the title. It doesn't have to be up there.
+
+**帕特里克·温斯顿：**
+
+我们还能怎样简化呢？嗯，我们可以去掉 logo。我们不需要它们。我们还能怎么做？去掉标题。现在，我想跟你们讲一些幻灯片准备的规则。我正在告诉你们标题。它不必显示在那里。
+
+---
+
+**PATRICK WINSTON:**
+
+By reducing the number of words on the slide, I'm allowing you to pay more attention to me and less to what's written on the slide. I mentioned it before—we have only one language processor, and we can either use it to read stuff or to listen to the speaker. And so if we have too many words on the slide, it forces people in the audience to read this stuff and not listen.
+
+**帕特里克·温斯顿：**
+
+通过减少幻灯片上的字数，我让你们可以更多注意我本人，而少注意幻灯片上写的内容。我之前提过——我们只有一套语言处理器，我们既可以用它来读东西，也可以用它来听演讲者讲话。所以如果幻灯片上的字太多，它会迫使观众读这些东西而不听讲。
+
+---
+
+**PATRICK WINSTON:**
+
+A student of mine did an experiment a few years ago. He taught some students some web-based programming ideas. Half the information was on slides, he said the other half, and then for a control group, he reversed it. And the question was, what did the subjects remember best, what he said, or what they read on the slide? And the answer is, what they read on the slide.
+
+**帕特里克·温斯顿：**
+
+我的一位学生几年前做过一个实验。他教一些学生一些基于网络的编程概念。他说一半的信息在幻灯片上，他说另一半，然后作为对照组，他把顺序反过来。问题是，那些被试——也就是他兄弟会的那些大一新生——他们最记得什么，是他说的，还是他们读到的幻灯片上的内容？答案是，他们读到的幻灯片上的内容。
+
+---
+
+**PATRICK WINSTON:**
+
+The too many words problem is a consequence of a crime Microsoft has committed by allowing you to use fonts that are too small. So you should all have a sample slide like this that you can use to determine what the minimum font size is that's easily legible.
+
+**帕特里克·温斯顿：**
+
+字太多的问题是微软犯下的罪行的后果，它允许你使用太小的字体。所以你们都应该有一张像这样的样本幻灯片，可以用来确定什么是最小易读的字号。
+
+---
+
+**PATRICK WINSTON:**
+
+What other crimes do we have? Well, we have the laser pointer crime. And for that—in the old days, when we didn't have laser pointers, we used wooden ones, and people would go waving these things around. And pretty soon it became almost like a baton twirling contest.
+
+**帕特里克·温斯顿：**
+
+我们还有什么罪？嗯，我们还有激光笔罪。为了那个——在过去，当我们没有激光笔时，我们用木头的，人们会挥舞这些东西。很快它就变得像一场指挥棒杂耍比赛。
+
+---
+
+**PATRICK WINSTON:**
+
+This is an example of use of a prop. Jim Glass up there saw this talk about 20 years ago, and said, oh, yeah, I remember that talk. That's the one where you broke the pointer. It's amazing how props tend to be the things that are remembered.
+
+**帕特里克·温斯顿：**
+
+这是道具使用的一个例子。Jim Glass 上面那位大约 20 年前看过这场演讲，说："哦，是的，我记得那场演讲。就是你折断指示笔的那场。"令人惊讶的是，道具往往就是被记住的东西。
+
+---
+
+**PATRICK WINSTON:**
+
+Well, now, we don't have laser pointers anymore. We've got laser pointers. It's a wonder more people aren't driven into epileptic fits over this sort of stuff. Well, here's what tends to happen. Look at that. It's a lovely recursive picture, and I can become part of it by putting that laser beam right on the back of my head up there. Then what do you see? You see the back of my head. I have no eye contact, no engagement, nothing.
+
+**帕特里克·温斯顿：**
+
+好吧，现在，我们不再有物理指示笔了。我们有了激光笔。令人惊奇的是，居然没有更多的人因为这种东西被诱发癫痫发作。嗯，这里会发生什么。看那。它是一张漂亮的递归图像，我可以成为它的一部分，把激光束放在我后面我的后脑勺上。然后你看到了什么？你看到了我的后脑勺。我没有眼神接触，没有与观众连接，什么都没有。
+
+---
+
+**PATRICK WINSTON:**
+
+I was sitting with a student watching a talk one day, and she said, you know what, we could all leave, and he wouldn't know. So what happens when you use a laser pointer? You can't use a laser pointer without turning your head and pointing it at something, and when you do that, you lose contact with the audience. You don't want to do it. So what do you do if you need to identify something in your image, and you don't want to point at it with a laser? This is what you do. Put a little arrow on there and say, now, look at that guy at the end of arrow number one. You don't need to have laser pointer to do that.
+
+**帕特里克·温斯顿：**
+
+有一天我正和一个学生一起看一场演讲，她说："你知道的，我们都可以离开，他也不会知道。"所以当你用激光笔时会发生什么？你不能在不转头并把激光笔指向某物的情况下使用激光笔，而当你那样做时，你就失去了与观众的联系。你不应该这样做。那么如果你需要在你图像中标识某样东西，而你又不想用激光笔去指它，怎么办？这就是你要做的。放一个小箭头在那里，说："现在，看箭头末端的那个家伙。"你不需要激光笔来做这件事。
+
+---
+
+**PATRICK WINSTON:**
+
+The too-heavy crime—when people ask me to review a presentation, I ask them to print it out and lay it out on a table. When they do that, it's easy to see whether the talk is too heavy, too much text, not enough air, not enough white space, not enough imagery. This is a good example of such a talk—way too heavy.
+
+**帕特里克·温斯顿：**
+
+"太沉重"的罪——当人们请我审阅一次演示时，我请他们把它打印出来铺在桌上。当他们那样做时，很容易看出这场演讲是否太沉重、文本太多、空白不够、图像不够。这是一个这种演讲的好例子——太沉重。
+
+---
+
+**PATRICK WINSTON:**
+
+Your vocabulary word for the day. This is an hapax legomenon. What that means is, this is the kind of slide you can get away with exactly once in your presentation. This is a slide that got some currency some years ago because it shows the complexity of governing in Afghanistan by showing how impossibly complex it is.
+
+**帕特里克·温斯顿：**
+
+你们今天的词汇课。这是一个 hapax legomenon（一次性词汇）。它的意思是，这是你在演讲中只能用恰好一次的那种幻灯片。这是一张几年前流传开来的幻灯片，因为它通过显示其令人难以置信的复杂性来展示阿富汗治理的复杂性。
+
+---
+
+**PATRICK WINSTON:**
+
+So they do. There's the hands in the pockets crime. There's a crime and time and place selection here. This is how you get to the Bartos Theater. First thing you do is you get on these steps over at the Media Lab, then you cross this large open space, then you turn right down this corridor.
+
+**帕特里克·温斯顿：**
+
+所以它们真的会出现。这是手插口袋的罪。这里还涉及时间和地点选择的罪。这就是你如何去 Bartos 剧院的路。你要做的第一件事是你在 Media Lab 这边走上这些台阶，然后你穿过这个大空地，然后你沿着这条走廊向右转。
+
+---
+
+**PATRICK WINSTON:**
+
+So what's the audience reaction? That's the sponsor of the meeting. He's reading his email. This is the co-sponsor of the meeting. He's examining the lunch menu.
+
+**帕特里克·温斯顿：**
+
+那么观众反应如何？那位是会议的赞助人。他在读他的邮件。这是会议的共同赞助人。他在研究午餐菜单。
+
+---
+
+## 信息型演讲 — 承诺、启发与思维方式 Informing: Promise, Inspiration, How to Think [36:30 - 41:30]
+
+**PATRICK WINSTON:**
+
+In that kind of presentation, you want to start with a promise like I did for this hour that we're going through now. And then it comes to the question of how do you inspire people? I've given this talk for a long time, and a few years ago, our department chairman said, would you please give this talk to a new faculty, and be sure to emphasize what it takes to inspire students.
+
+**帕特里克·温斯顿：**
+
+在那类演讲中，你要以一个承诺开场，就像我现在正在做的这一个小时。然后就到了"如何激励人们"的问题。我讲这个演讲已经讲了很久了，几年前，我们的系主任说："你愿意把这个演讲讲给新教员听吗？务必强调激励学生所需的东西。"
+
+---
+
+**PATRICK WINSTON:**
+
+What I found from the incoming freshmen is that they were inspired by some high school teacher who told them they could do it. What I found in the senior faculty, they were inspired by someone who helped them see a problem in a new way. And what I saw from everyone is that they were inspired when someone exhibited passion about what they were doing, exhibited passion about what they were doing.
+
+**帕特里克·温斯顿：**
+
+我从大一新生那里了解到，他们是被某位高中老师激励的，那位老师告诉他们"你能行"。我从高年级教员那里了解到，他们是被某个帮他们以新方式看待一个问题的人激励的。而我从所有人那里都看到的是：他们是在某个人对自己所做的事情表现出热情时被激励的——表现出对自己所做的事情的热情。
+
+---
+
+**PATRICK WINSTON:**
+
+So that's one way to be inspiring. It's easy for me because I do artificial intelligence. And how can you not be interested in artificial intelligence? I mean, if you're not interested in artificial intelligence, you're probably not interested in interesting things. So when I'm lecturing in my AI class, it's natural for me to talk about what I think is cool and how exciting some new idea is.
+
+**帕特里克·温斯顿：**
+
+所以那是一种激励人的方法。对我来说这很容易，因为我是做人工智能的。你怎么可能对人工智能不感兴趣呢？我的意思是，如果你对人工智能不感兴趣，你可能对有趣的事情不感兴趣。所以当我在我的 AI 课上做讲座时，对我来说自然地讲讲我认为很酷的东西以及某些新想法有多么令人激动是再自然不过的。
+
+---
+
+**PATRICK WINSTON:**
+
+Let me give you an example of a lecture that starts this way. I'm talking about resource allocation. It's the same sort of stuff you would think of when you're allocating aircraft to a flight schedule or trying to schedule a factory or something like that. But the example is putting colors on the states in the United States without any bordering states having the same color.
+
+**帕特里克·温斯顿：**
+
+让我给你们一个以这种方式开场的讲座的例子。我在讲资源分配。它和你们想到的那些东西——它和你在把飞机分配到一个航班时刻表上、或者在安排一个工厂的时候会想到的同类的想法是一样的。但例子是用颜色给美国的州上色，使得任何相邻的两个州没有相同的颜色。
+
+---
+
+**PATRICK WINSTON:**
+
+But with a slight adjustment to how the program works, which I tell my students you will understand in the next 50 minutes, this is what you get. Isn't that cool? You got to be amazed by stuff that takes a computation from longer than the lifetime of the solar system into a few seconds. So that's what I mean by providing a promise upfront and expressing some passion about what you're talking about.
+
+**帕特里克·温斯顿：**
+
+但通过对程序工作方式的一个小调整——我告诉我的学生，你们将在接下来的 50 分钟内理解——这就是你得到的。是不是很酷？你一定对这种东西感到惊讶，因为它把一段计算的耗时从比太阳系的寿命还长变成短短几秒钟。所以这就是我所说的"提前给出承诺并对你正在讲的内容表达热情"的意思。
+
+---
+
+**PATRICK WINSTON:**
+
+The last item in this little block here is it has to do with what people think that they do it at MIT. You ask faculty what the most important purpose is, and they'll say, well, the most important thing I do is teach people how to think. And then you say oh, that's great. How do you teach people how to think? Blank stare. No one can quite respond to that part, that natural next question.
+
+**帕特里克·温斯顿：**
+
+这个小部分里的最后一项，是关于人们认为他们在 MIT 所做的事情。你问教员们最重要的目的是什么，他们会说："嗯，我做的最重要的事情是教人们如何思考。"然后你说："哦，太棒了。""你如何教人们如何思考呢？"——一片茫然。没有人能完全回答那部分，那个自然而然的下一个问题。
+
+---
+
+**PATRICK WINSTON:**
+
+So how do you teach people how to think? Well, I believe that we are storytelling animals. And that we start developing our story, understanding and manipulating skills with fairy tales in childhood and continue on through professional schools like law, business, medicine, everything. And we continue doing that throughout life.
+
+**帕特里克·温斯顿：**
+
+所以你如何教人们如何思考？嗯，我相信我们是讲故事的动物。我们从童年时期通过童话故事开始发展我们讲故事、理解和操纵的技能，并一直延续到像法学院、商学院、医学院这样的专业学校。一切。我们一辈子都在做这件事。
+
+---
+
+**PATRICK WINSTON:**
+
+So if that is what thinking is all about. And we want to teach people how to think, you provide them with the stories they need to know, the questions they need to ask about those stories, mechanisms for analyzing those stories, ways of putting stories together, ways of evaluating how reliable a story is. And that's what I think you need to do when you teach people how to think.
+
+**帕特里克·温斯顿：**
+
+所以如果那就是思维的全部，而我们要教人们如何思考，你就给他们提供他们需要知道的故事、他们需要问的关于这些故事的问题、分析这些故事的机制、把故事组合起来的方法、评估一个故事有多可靠的方法。这就是我认为你在教人们如何思考时需要做的事情。
+
+---
+
+## 说服型演讲 — 口头答辩、求职报告与成名 Persuading: Oral Exams, Job Talks, Getting Famous [41:30 - 53:06]
+
+**PATRICK WINSTON:**
+
+But that's all about education. And many of you here are not necessarily for that, but rather for this part, for persuading, which breaks down into several categories, oral exams, not shown, shop talks, getting famous. I won't say much about oral exams other than the fact that they used to be a lot scarier than they are today.
+
+**帕特里克·温斯顿：**
+
+但所有这些都是关于教育的。你们这里许多人未必是为了那个，而是为了这部分——说服——它分为几个类别：口头答辩、未显示的内部报告、成名。除了说口头答辩过去比现在可怕得多之外，我不愿多谈口头答辩。
+
+---
+
+**PATRICK WINSTON:**
+
+When you look back on those failures, the most usual reason for people failing an oral exam is failure to situate and a failure to practice. By situate, I mean, it's important to talk about your research in context. This is a problem that's being pursued all over the world. There hasn't been any progress before me in the past 30 years. Everyone is looking for a solution because it will have impact on so many other things.
+
+**帕特里克·温斯顿：**
+
+当你回望那些失败时，人们口头答辩失败的最常见原因是"情境化"的失败和"练习"的失败。我所说的"情境化"，意思是重要的是要联系背景谈你的研究。这是一个全世界都在研究的问题。在我之前的过去 30 年里，没有任何进展。每个人都在寻找一个解决方案，因为它会对如此多的其他事情产生影响。
+
+---
+
+**PATRICK WINSTON:**
+
+And then as far as practice is concerned, yes, practice—I always tell people, when you practice, you practice in front of people who are hostile to you. So if you're preparing for a job talk, a homework critique, an oral exam, any of that kind of thing, find some people who are hostile to you to practice in front of. Take the feedback they give you and come back and do it again. You do it again and again and again so you won't be caught off-guard.
+
+**帕特里克·温斯顿：**
+
+然后至于练习，是的，练习——我经常告诉人们，练习时，你要在对你有敌意的人面前练习。所以如果你正在准备一个求职报告、家庭作业评论、一个口头答辩，任何那种东西，找一些对你有敌意的人练习。带着他们给你的反馈回来再练一遍。你一遍又一遍地做，这样你就不会被打到措手不及。
+
+---
+
+**PATRICK WINSTON:**
+
+Now, I was told I should skip shop talks. I was told, "please skip them; nobody cares about them." OK. So let's move on to the next topic, getting famous.
+
+**帕特里克·温斯顿：**
+
+现在，我被告知我应该跳过 shop talks（内部报告）。我被告知，"请跳过它们，没有人关心它们。"好。所以让我们进入下一个话题——成名。
+
+---
+
+**PATRICK WINSTON:**
+
+What I want to tell you is about getting famous, because I've done some research on this topic, and I've found a fairly simple pattern: those people become famous because they speak about some kind of symbol, some kind of slogan, some kind of surprise, some kind of salient idea, some kind of story.
+
+**帕特里克·温斯顿：**
+
+我想告诉你们的是关于成名的内容，因为我做了一些关于这个话题的研究，我找到了一个相当简单的模式：那些人之所以成名，是因为他们讲到了某种符号、某种口号、某种惊讶点、某种突出想法、某种故事。
+
+---
+
+**PATRICK WINSTON:**
+
+Now, I have to emphasize because this is what my colleagues put a lot of pressure on me to emphasize—what is meant by symbol, slogan, salient idea, and story here. They refer to the central contribution of your research. So for example, a symbol can be a visual image, an equation, or an algorithm that represents your contribution. A slogan is a verbal way of expressing your contribution. A salient idea is "my contribution is XYZ." And a story is about how your contribution fits in the overall framework of the work—where it came from and where it goes.
+
+**帕特里克·温斯顿：**
+
+现在，我必须强调一下，因为这是我的同事们给我很大压力让我强调的——这里的"符号、口号、突出想法、故事"指的是什么。它们指的是你研究的核心贡献。因此，例如，符号可以是代表你贡献的一种视觉图像、一个方程式或一种算法。口号是表达你的贡献的一种语言方式。突出想法是"我的贡献是 XYZ"。而故事是关于你的贡献如何在工作的整体框架中出现的——它从哪里来，它去往哪里。
+
+---
+
+**PATRICK WINSTON:**
+
+So I'll point to this picture and say, this is Winston's Star. It has five points, and each one represents one of those five nouns I just said. I didn't make this up; I borrowed it from semiotics, which is the study of signs. So when I say symbol, it can be anything—it can even be a particular gesture, like the kind that Marvin Minsky used when he was talking about frame problems.
+
+**帕特里克·温斯顿：**
+
+所以我会指着这张图说："这是温斯顿之星。"它有五个角，每一个都代表我刚才说的五个名词之一。这不是我想出来的；这是我从符号学中借鉴的，符号学是研究符号的科学。所以我说"符号"，它可以是任何东西——它甚至可以是一个特定的手势，比如 Marvin Minsky 在谈论框架问题时使用的那种。
+
+---
+
+**PATRICK WINSTON:**
+
+Let me give you some more examples from my field. So PUMA, Rodney Brooks's, was using robots that looked like human and animal forms, covering all three of those attributes—symbol, slogan, salient idea. A robot, with a torso and head like a human, walking around, so his slogan is, "machines that think like humans."
+
+**帕特里克·温斯顿：**
+
+让我从我的领域再给你们举几个例子。所以 PUMA，是 Rodney Brooks 的，是用与人类和动物外形相似的机器人覆盖了所有这三个属性——符号、口号、突出想法。一个机器人，有着像人类一样的躯干和头，四处走动，于是他的口头禅是："像人一样聪明的机器。"
+
+---
+
+**PATRICK WINSTON:**
+
+Another example, the DARPA Challenge. DARPA decided to fund the development of self-driving cars, and they had a challenge race in the desert. This was a major media event. Some people made it, some didn't, and in the end, CMU won. This is a major research contribution, right? This is a major engineering contribution, right? It's going to change the world, right? But nobody remembers it. Why? Because there is no symbol—no image. There is no slogan—nothing you can say in one sentence. There is no salient idea—there is no "my contribution is XYZ" you can say. There is no story—nothing to tell. And the biggest factor is probably no slogan.
+
+**帕特里克·温斯顿：**
+
+另一个例子，DARPA 挑战赛。DARPA 决定资助无人驾驶汽车的开发，他们在沙漠里举行了一场挑战赛。这是一场大规模媒体事件。有些人做到了，有些人没做到，最后，CMU 赢了。这是一项重大的研究贡献，对吗？这是一项重大的工程贡献，对吗？它会改变世界，对吗？但没有人记得它。为什么？因为没有符号——没有图像。没有口号——没有一句话可以说出来。没有突出想法——没有"我的贡献是 XYZ"可以说出来。没有故事——没有任何东西可以讲。而最大的因素可能是没有口号。
+
+---
+
+**PATRICK WINSTON:**
+
+By contrast, for Marr, their breakthrough was about vision. Their breakthrough was about vision, and accompanying that breakthrough was an observation about three levels—neuroscience, brain, computation—three levels. So the slogan is "three levels." The symbol is that famous sketch. The salient idea is "to understand an information processing system, you have to understand how it operates at different levels"—three levels. This is a complete combination of David Marr's symbol, slogan, salient idea, story.
+
+**帕特里克·温斯顿：**
+
+相比之下，对于 Marr，她们的突破是关于视觉的。她们的突破是关于视觉的，而伴随这一突破的是对神经科学、大脑、计算这三层——三个层次——的观察。所以口号是"三个层次"。符号是那幅著名的草图。突出想法是"理解一个信息处理系统，你必须理解它在不同层次上的运作"——三个层次。这是 David Marr 的符号、口号、突出想法、故事的一个完整组合。
+
+---
+
+**PATRICK WINSTON:**
+
+Another example, examples can be from long ago, long ago. So even back in the 60s, Boyden had his taxonomy. Baker had his summary. Holland had his genetic algorithm slogan—"survival of the fittest." Holland used a single phrase "survival of the fittest" as his slogan.
+
+**帕特里克·温斯顿：**
+
+另一个例子，例子可以从很久以前、很久以前说过来。所以即使在 60 年代，Boyden 也有他的分类法。Baker 也有他的总结。Holland 也有他的遗传算法的口号——"survival of the fittest"。Holland 用一句短语"survival of the fittest"（适者生存）作为他的口号。
+
+---
+
+**PATRICK WINSTON:**
+
+Another example, GPS—General Problem Solver, made by Newell and Simon. Its slogan is "means-end analysis," its story is about how it started with an impossible problem and solved it by recursively reducing it to smaller problems. All of that is a complete combination of Newell and Simon's "symbol, slogan, salient idea, story."
+
+**帕特里克·温斯顿：**
+
+另一个例子，GPS——General Problem Solver，由 Newell 和 Simon 制作。它的口号是"means-end analysis"（手段-目的分析），它的故事是关于它如何从一个不可能的问题开始，通过递归地把它简化为更小的问题，从而解决了它。所有那些都是 Newell 和 Simon 的"符号、口号、突出想法、故事"的一个完整组合。
+
+---
+
+**PATRICK WINSTON:**
+
+Another example, from my own research. When I first started, I learned a lot about macro operations, a useful concept in planning. After using it for a while, I gave it a name—STRIPS. I gave it a slogan—"means-ends analysis." Of course, that was Newell and Simon's slogan. I didn't know, so I borrowed it. Then the symbol is an image—a slash through a name. Then the salient idea is "my contribution is XYZ." This story is about how the entire research program evolved from an earlier concept called macro operations, to STRIPS, and ultimately evolved into a full theory of planning.
+
+**帕特里克·温斯顿：**
+
+另一个例子，来自我的研究。当我刚开始的时候，我学到了大量关于宏观操作的知识，宏观操作是规划中的一个有用概念。在用了一段时间之后，我给它起了一个名字——"STRIPS"。我给了它一个口号——"means-ends analysis"（手段-目的分析）。当然，那是 Newell 和 Simon 的口号。我不知道，所以我借了它。然后符号是一幅图像——一条斜杠穿过一个名字。然后突出想法是"我的贡献是 XYZ"。这个故事是关于整个研究纲领如何从一个叫做宏观操作的早期概念进化到 STRIPS，并最终演化成一个完整的规划理论。
+
+---
+
+**PATRICK WINSTON:**
+
+So the pattern you see is: you need a symbol, a slogan, a salient idea, and a story. If you can put all of these together, you've done something good, but you're not finished because you also need a surprise. The surprise is the element that gets people to give up their old ideas and move toward your new ideas.
+
+**帕特里克·温斯顿：**
+
+所以你们看到的模式是：你需要一个符号、一个口号、一个突出想法和一个故事。如果你能把所有这些都放在一起，你就做了一件好事，但你还没有结束，因为你还需要一个惊讶点。惊讶点是让人们放弃他们的旧想法、转向你的新想法的那个元素。
+
+---
+
+**PATRICK WINSTON:**
+
+Let me give you an example of a surprise. So when I was doing my own STRIPS research, I noticed an interesting phenomenon. If I considered a particular planning problem's state—you see here, all these blocks—the phenomenon I noticed is that, for most planning problems, for most planning problems, any subsequence of a planning solution is itself a solution to a planning problem.
+
+**帕特里克·温斯顿：**
+
+让我给你们举一个惊讶点的例子。所以当我在做我自己的 STRIPS 研究时，我注意到一个有趣的现象。如果我考虑一个特定规划问题的状态——你们看到的，这里有所有的方块——我注意到的现象是，对大部分规划问题，对大部分规划问题而言，规划解的任何子序列本身就是一个规划问题的解。
+
+---
+
+**PATRICK WINSTON:**
+
+Yes, I see some of you in the audience looking fairly uncomfortable. For most planning problems, any subsequence of a planning solution is itself a solution to a planning problem. This is a highly counter-intuitive observation. So what's the surprise? The surprise is: that property has a name—near miss. Yes, a near miss is a proposition that is approximately true, but not exactly true.
+
+**帕特里克·温斯顿：**
+
+是的，我看到在观众席里有些人相当不安。对大部分规划问题而言，规划解的任何子序列本身就是一个规划问题的解。这是一个非常违反直觉的观察。那么惊讶点是什么？惊讶点是：那个属性有一个名字——"近似反例"（near miss）。是的，一个近似反例是一个近似为真的、但不完全为真的命题。
+
+---
+
+**PATRICK WINSTON:**
+
+The greatest slides you'll ever have—the best way to tell a story—the greatest slides you'll ever have are tiny near misses. This is what happened to Walter Revere. He almost rode that horse to Lexington, he almost warned those people. But he didn't. So near miss as a surprise is a huge, huge, huge difference maker.
+
+**帕特里克·温斯顿：**
+
+你所有可能听到的最伟大的幻灯片——讲故事的最好方式——是你所有可能听到的最伟大的幻灯片就是一个非常小的几乎反例。这就是 Walter Revere 所发生的事。他几乎把那匹马骑到了 Lexington，他几乎警告了那些人。但他没有。所以近似反例作为惊讶点是一个巨大的、巨大的、巨大的差异制造者。
+
+---
+
+**PATRICK WINSTON:**
+
+So I went back to that observation. I studied it, I studied it, I studied it, and finally I found a counterexample—a real counterexample. So that seemingly universal proposition turned out to be false. But it's only false in a very small number of cases. This is just a story of a fact that I as a researcher happened to encounter. But what I found out in my STRIPS work is that many problems have near misses, and if you have a near miss, it sticks out in the data, it's a goldmine for teaching and learning.
+
+**帕特里克·温斯顿：**
+
+所以我回到那个观察。我研究了它，我研究了它，我研究了它，最后我找到了一个反例——一个真正的反例。所以那个看似普适的命题其实是错的。但它只在极少数情况下才是错的。这只是一个我作为研究者碰巧遇到的事实的故事。但我在 STRIPS 工作中发现的是，许多问题有近似反例，而且如果你有一个近似反例，它就在数据里突出出来，它是教学和学习的金矿。
+
+---
+
+**PATRICK WINSTON:**
+
+Another example of a surprise. So when starting our own line of research on ANN—artificial neural networks—I want to emphasize that nothing could be more different from that line of research. So Tomaso Poggio in my lab decided to study neural networks. It was very, very successful, very successful, so successful that it was actually based on considerations of how the brain works: either some variant of supervised learning, or some reinforcement learning. Or some reinforcement learning, or maybe some evolutionary method.
+
+**帕特里克·温斯顿：**
+
+另一个惊讶点的例子。因此，当开始我们自己的研究线时，关于 ANN——人工神经网络——我想强调的是，没有什么与这一研究线有更不同的东西了。所以我实验室里的 Tomaso Poggio 决定研究神经网络。它非常成功，非常成功，以至于它实际上是基于对大脑工作方式的考虑：要么是某种监督学习的变体，要么是某种强化学习。或者是某种强化学习，或者也许是某种进化方法。
+
+---
+
+**PATRICK WINSTON:**
+
+But what Tomaso did changed everything. He showed that we don't need all that. We don't need supervised learning. We don't need reinforcement learning. We don't need evolutionary methods. We don't need any of those. All we need is—well, I'm almost there—but what we need is something much simpler. What we need is a related property—our ability to handle a random variable. How we handle a random variable. How do we handle a random variable?
+
+**帕特里克·温斯顿：**
+
+但 Tomaso 做的事情会改变一切。他展示了我们不需要那么多东西。我们不需要监督学习。我们不需要强化学习。我们不需要进化方法。我们不需要其中任何一种。我们需要的只是——好的，我快到了，但我们需要的是简单得多的东西。我们需要的是一个相关的属性——我们如何处理一个随机变量的能力。我们如何处理一个随机变量的能力。我们怎么处理一个随机变量？
+
+---
+
+**PATRICK WINSTON:**
+
+Well, one way to handle a random variable is to compute its average. So Poggio used three words in the abstract of his paper on this topic—three words—as his slogan. His slogan was three words—"average of images." The slide is still there, looks like that—its description is that it looks like those three words.
+
+**帕特里克·温斯顿：**
+
+嗯，处理随机变量的方式之一是计算它的平均值。所以 Poggio 在他关于这个话题的论文摘要中用了三个词——三个词——作为他的口号。他的口号是三个词——"average of images"。幻灯片还在那里，看起来像那样——它的描述是它看起来像那三个词。
+
+---
+
+**PATRICK WINSTON:**
+
+So that slogan—"average of images"—is a surprise because the neural network community would have expected you to need complex mechanisms, powerful mathematics, heavy computation. And Tomaso wiped all of that away with three words, saying: "All I need is the average of images." That's the surprise.
+
+**帕特里克·温斯顿：**
+
+因此，那个口号——"average of images"（图像平均）——是一个惊讶点，因为神经网络社区会预期你需要复杂的机制、强大的数学、繁重的计算。而 Tomaso 用三个字消除了所有这些，他说："我只需要图像的平均。"这就是惊讶点。
+
+---
+
+**PATRICK WINSTON:**
+
+So in the final analysis, that's the model—symbol, slogan, salient idea, story, surprise. When you get famous, you have a complete set of five, ready to do it all over again with whatever you do next.
+
+**帕特里克·温斯顿：**
+
+所以在最后的分析中，这就是那个模型——"符号、口号、突出想法、故事、惊讶点"。当你成名时，你就有了一套完整的五件套，你随时准备对你做的下一件事再这么做一次。
+
+---
+
+## 如何结束 — 最后一张幻灯片与结束语 How to Stop: Final Slide, Final Words [53:06 - 56:35]
+
+**PATRICK WINSTON:**
+
+Well, now let me make a few final comments. There is one thing—one thing about how to stop—and that's your final slide. So you're now telling your audience, "I'm about to finish," what does that slide need to do?
+
+**帕特里克·温斯顿：**
+
+好，现在让我做几个最后的评论。有一件事——有一件事是与如何结束有关的一件事——那就是你的最后一张幻灯片。所以你现在正在向你的听众宣布，"我就要讲完了，"那张幻灯片需要做什么？
+
+---
+
+**PATRICK WINSTON:**
+
+First of all, in my view, you need to first think about that common practice of using "thank you" as your final slide. It's common. It's standard. It's what many people do. I'm here to say it's wrong. Because if you put a "thank you" as your final slide, you blow away everything you've just done in your talk, because what you're telling them is: "I'm finished, I want you to go home."
+
+**帕特里克·温斯顿：**
+
+嗯，首先，在我看来，你需要先考虑那种用"谢谢"作为最后一张幻灯片的常见做法。这很常见。这是标准的做法。这是许多人做的事。我要说这是错的。因为如果你放一张"谢谢"作为最后一张幻灯片，你就把你刚刚做的演讲中的所有东西都吹走了，因为你正在告诉他们的是："我讲完了，我想让你们回家。"
+
+---
+
+**PATRICK WINSTON:**
+
+So this is what my final slide looks like. It has an image on it, it has a title on it that says "Conclusion," it has numbered items on it—from 1 to 4 numbered—corresponding to the points I made earlier. So in the end, the audience takes a picture of the slide—they take pictures of slides—they take pictures of slides, right?—they take the slide away, so that slide needs to say the gist of what you did.
+
+**帕特里克·温斯顿：**
+
+我的最后一张幻灯片的样子像这样。它上面有一个图像，它上面有一个标题，上面写着"结论"，它上面有从 1 到 n 的编号项目——从 1 到 4 编号——它们对应着我之前谈到的那些要点。所以到最后，听众们把幻灯片拍下来——他们拍幻灯片——他们把幻灯片拍下来，对吧？——他们把幻灯片拍下来带走，所以这张幻灯片需要说明你做了什么的核心要点。
+
+---
+
+**PATRICK WINSTON:**
+
+So a "thank you" slide is terrible. What you want is a summary of what you did. This is your "contributions." Again, since we're talking about persuading talks rather than teaching talks, that's about contributions.
+
+**帕特里克·温斯顿：**
+
+所以一张"谢谢"幻灯片是糟糕的。你想要的是总结你做了什么。这是你的"贡献"。同样，因为我们说的是说服型演讲，而不是教学型演讲，那是关于贡献的。
+
+---
+
+**PATRICK WINSTON:**
+
+But there's one more thing, and that's the final words. I notice some of the people I respect, they often finish with a joke. So you can finish with a joke. If you do finish with a joke, it has to be related to the subject. It can't be any joke from the lunch menu. It can't be a random joke that has nothing to do with your talk. It has to be related. And more generally, I tell my students that any joke has to appear at least twice in the place where it's going to appear before you can use it. Let me say that again because it's important. A joke has to appear at least twice in the place where it's going to appear before you can use it.
+
+**帕特里克·温斯顿：**
+
+但还有一件事，那就是结束语。我注意到一些我尊敬的人，他们经常以笑话作为结束。所以你也可以以笑话作为结束。如果你要以笑话作为结束，它必须与主题有关。它不能是午餐菜单上的任何笑话。它不能是与你的演讲没有任何关系的随机笑话。它必须与主题有关。而更一般地说，我告诉我的学生，任何一个笑话都必须在它要出现的地方至少出现两次才能用。让我再说一遍，因为这是重要的。一个笑话都必须在它要出现的地方至少出现两次才能用。
+
+---
+
+## 结束语 — 笑话、感谢与实例 Final Words: Joke, Thank You, Examples [56:35 - 01:00:28]
+
+**PATRICK WINSTON:**
+
+OK. So as an example of a joke, let me tell you the joke I tell every time I give a talk on how to speak. I'm sure many of you have heard it in some sense, because I've told it for so long.
+
+**帕特里克·温斯顿：**
+
+好。那么，作为一个关于笑话的例子，让我告诉你们我每次讲关于"如何演讲"的演讲时都会讲的笑话。我确信你们许多人在某种意义上已经听过它，因为我已经讲了很长时间了。
+
+---
+
+**PATRICK WINSTON:**
+
+An engineer, a physicist, and a mathematician are told—trapped in a burning hotel. They are standing by a window looking at the windowsill three floors below, and the engineer jumps out the window, falls to the windowsill—hits the windowsill—breaks his leg. The physicist jumps out the window, hits the windowsill, breaks his leg. The mathematician jumps out the window, and floats away.
+
+**帕特里克·温斯顿：**
+
+一位工程师、一位物理学家和一位数学家被告知——被困在一座着火的旅馆里。他们站在窗边，看着下面三楼的窗台，然后那位工程师从窗户跳了出去，掉到了窗台上——撞到了窗台上——断了一条腿。那位物理学家从窗户跳了出去，撞到了窗台上，断了一条腿。那位数学家从窗户跳了出去，飘走了。
+
+---
+
+**PATRICK WINSTON:**
+
+They later get back together, and the engineer says, "I counted that experience as zero." The physicist says, "I counted that experience as e." The mathematician says, "I counted that experience as e, but I added a minus sign."
+
+**帕特里克·温斯顿：**
+
+他们后来又凑到一起，那位工程师说："我把这次经历算作零。那位物理学家说："我把这次经历算作 e。"那位数学家说："我把这次经历算作 e，但把它加了一个负号。"
+
+[笑声]
+
+[Laughter]
+
+---
+
+**PATRICK WINSTON:**
+
+So that's the joke. Now let me show you some "counter-examples"—various versions of thank-you slides. I hate "thank you." It's like telling your boss, "your talk was bad." And also "thank you for your attention." These are absolutely invalid ways of closing your talk.
+
+**帕特里克·温斯顿：**
+
+所以这是那个笑话。现在让我给你们看一些"反例"——谢谢幻灯片的各种变体。我讨厌"谢谢"。这就像在告诉你老板"你的演讲很糟糕"一样。还有"谢谢您的关注"。这些是你演讲的彻底无效的关闭方式。
+
+---
+
+**PATRICK WINSTON:**
+
+So anyway, thank you for your kind attention—I am here ending with a joke about abstract mathematics and engineering problems—thank you for coming. I hope you took a small portion of your IAP time to come to this lecture, and I'm happy to report that I am still actively waiting for someone to tell me what's wrong with Winston's talks.
+
+**帕特里克·温斯顿：**
+
+所以无论如何，承蒙各位的好意——我在这里以一个关于抽象数学和工程问题的笑话作为结束——感谢你们的到来。我希望你们从你们的 IAP 时间里拿出一小部分时间来到这个讲座，我很高兴地报告，我仍然在积极地等待有人告诉我温斯顿的演讲有什么是错的。
+
+---
+
+**PATRICK WINSTON:**
+
+Let me give you a complete example. So this is a talk on how to speak—it is itself a complete example. So if you think back on what I did, you can perhaps recognize the techniques I used. So I used cycling, I used build a fence, I used verbal punctuation, I used ask a question. I made an empowerment promise to you. I did a contributions slide—I didn't use a "thank you" slide, right? I have a contributions slide, right?
+
+**帕特里克·温斯顿：**
+
+让我给你们一个完整的例子。所以这是一个关于如何演讲的演讲——它本身就是一个完整的例子。所以如果你回想一下我所做的事情，你也许能认出我使用过的那些技巧。所以我使用了循环强化，我使用了建围栏，我使用了语言标点，我使用了问问题。我向你做了赋能承诺。我做了贡献幻灯片——我没有用"谢谢"幻灯片，对吧？我有一个贡献幻灯片，对吧？
+
+---
+
+**PATRICK WINSTON:**
+
+I used the boards, and many of my most memorable moments came from props—Papert's spinning bicycle wheel, Lazarus's steel ball, Ibsen's manuscript going into the fire. I used Winston's Star as a recurring visual symbol. So this is the talk on how to speak—it is itself a complete example. All of these help to put this talk into your memory.
+
+**帕特里克·温斯顿：**
+
+我用了黑板，我的许多最难忘的瞬间就是从道具里来的——Papert 的旋转自行车轮子、Lazarus 的钢球、Ibsen 的手稿入火。我用了温斯顿之星作为一个重复的视觉符号。所以这是"如何演讲"的讲座——它本身就是一个完整的例子。所有这些都有助于把这次演讲放进你的记忆里。
+
+---
+
+**PATRICK WINSTON:**
+
+There is one fact about this talk, but there's one fact about you that I have to tell you. Many of you have not learned how to speak yet—in fact, no one has really learned because there's no place to learn it. So many of you have not learned how to speak. Many of you have never given a talk before. Many of you have given a talk, but not very well.
+
+**帕特里克·温斯顿：**
+
+有一个事实是关于这次演讲的，但有一个事实是关于你们的，我必须告诉你们。你们中有许多人还没学会如何去演讲——事实上，没人真正学过，因为没有地方去学它。所以你们中有许多人还没学会如何去演讲。你们中有许多人以前从未做过任何演讲。你们中有许多人做过演讲，但做得不太好。
+
+---
+
+**PATRICK WINSTON:**
+
+So for you, this is not over. So for you, this is not over. But what it does mean is that you have many opportunities to give talks, to learn, to practice, to find out which techniques work for you. So what it does mean is that you have many opportunities to give talks, to learn, to practice, to find out which techniques work for you.
+
+**帕特里克·温斯顿：**
+
+所以对你们来说这件事还没有结束。所以对你们来说这件事还没有结束。但它的确意味着你们有许多机会去做演讲，去学习，去练习，去发现哪个技巧对你们有用。所以它的确意味着你们有许多机会去做演讲，去学习，去练习，去发现哪个技巧对你们有用。
+
+---
+
+**PATRICK WINSTON:**
+
+I think now—I think now we can ask questions, and I will be happy to answer—answer any of your questions about how to speak. I've given a lot of talks, but my main interest—outside of speaking itself—is the early forms of storytelling, which philosophers and psychologists are both concerned with. So if you want to hear a story about the development of storytelling and its roots, I can tell one. Or you can ask questions about how to speak.
+
+**帕特里克·温斯顿：**
+
+我想现在——我想现在我们可以问问题，我会很高兴地回答——回答你们关于如何演讲的任何问题。我做了大量的演讲，但我自己的主要兴趣——在演讲本身之外——是讲故事的早期形式，哲学家和心理学家都关心这些早期形式。所以如果你们想听一个关于讲故事的发展和它的根的故事，我可以讲一个。或者你们可以问关于如何演讲的问题。
+
+---
+
+## 译后记 / Translator's Note
+
+本双语版本保留了原演讲的口语化、互动性和即兴幽默。标记 [笑声] / [Laughter] 表示观众笑点；标记 [INAUDIBLE / 听不清] 表示原视频中听不清的内容。重复出现的段落（例如结尾的笑话和总结）按原视频结构保留，未做删减。
+
+This bilingual version preserves the colloquial, interactive, and impromptu humor of the original lecture. `[笑声] / [Laughter]` marks audience laughter; `[INAUDIBLE / 听不清]` marks audio that was unclear in the source video. Repetitive sections (such as the closing joke and recap) follow the original structure and have not been condensed.
+
+主要术语对照 / Key Terminology Mapping:
+- Patrick Winston → 帕特里克·温斯顿
+- How to Speak → 如何演讲
+- heuristic → 启发式方法
+- cycling → 循环强化
+- build a fence → 建围栏
+- verbal punctuation → 语言标点
+- empowerment promise → 赋能承诺
+- Winston's Star → 温斯顿之星
+- near miss → 近似反例
+- hapax legomenon → 一次性词汇（保留英文术语）
+- means-ends analysis → 手段-目的分析
+- means-end analysis → 手段-目的分析
+
+—— 翻译完成 / Translation Complete ——

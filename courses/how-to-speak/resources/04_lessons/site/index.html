@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>如何演讲 | MIT OCW 中文学习版</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans SC", sans-serif;
+            line-height: 1.7;
+            color: #333;
+            background: #f8f9fa;
+        }
+        .container { max-width: 960px; margin: 0 auto; padding: 20px; }
+        header {
+            background: linear-gradient(135deg, #8B0000 0%, #A52A2A 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        header h1 { font-size: 2.5em; margin-bottom: 10px; }
+        header p { font-size: 1.2em; opacity: 0.9; }
+        .badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            margin-top: 15px;
+        }
+        .section {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        .section h2 {
+            color: #8B0000;
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            background: #fafafa;
+            border-radius: 8px;
+            padding: 20px;
+            border-left: 4px solid #8B0000;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        .card h3 { color: #333; margin-bottom: 10px; font-size: 1.1em; }
+        .card p { color: #666; font-size: 0.95em; margin-bottom: 15px; }
+        .card a {
+            display: inline-block;
+            color: #8B0000;
+            text-decoration: none;
+            font-weight: 500;
+            margin-right: 15px;
+        }
+        .card a:hover { text-decoration: underline; }
+        .link-list { list-style: none; }
+        .link-list li {
+            padding: 10px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        .link-list li:last-child { border-bottom: none; }
+        .link-list a {
+            color: #333;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+        }
+        .link-list a:hover { color: #8B0000; }
+        .link-list .icon {
+            width: 32px;
+            height: 32px;
+            background: #f0f0f0;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 12px;
+            font-size: 1.2em;
+        }
+        .meta {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+        .meta-item {
+            background: #f0f0f0;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-size: 0.9em;
+        }
+        .meta-item strong { color: #8B0000; }
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #999;
+            font-size: 0.9em;
+        }
+        .chapter-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        .chapter-item {
+            background: #fafafa;
+            padding: 15px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #333;
+            transition: all 0.2s;
+        }
+        .chapter-item:hover {
+            background: #8B0000;
+            color: white;
+        }
+        .chapter-item .num {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #8B0000;
+            margin-bottom: 5px;
+        }
+        .chapter-item:hover .num { color: white; }
+        .chapter-item .title { font-size: 0.95em; }
+        .chapter-item .time { font-size: 0.8em; opacity: 0.7; margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>如何演讲</h1>
+        <p>MIT OCW《How to Speak》中文学习版</p>
+        <div class="badge">主讲：帕特里克·温斯顿 | MIT 独立活动期</div>
+    </header>
+
+    <div class="container">
+        <!-- 课程简介 -->
+        <div class="section">
+            <h2>📖 课程简介</h2>
+            <p>麻省理工学院（MIT）教授帕特里克·温斯顿（Patrick Winston）的经典演讲课程。他以其独特的幽默风格和深刻的见解，传授了让演讲更有力、更难忘的技巧。</p>
+            <div class="meta">
+                <div class="meta-item"><strong>时长</strong> 1:03:42</div>
+                <div class="meta-item"><strong>字幕</strong> 1,253 条</div>
+                <div class="meta-item"><strong>章节</strong> 10 章</div>
+                <div class="meta-item"><strong>讲稿</strong> 46,832 字</div>
+            </div>
+        </div>
+
+        <!-- 核心资源 -->
+        <div class="section">
+            <h2>🎬 核心资源</h2>
+            <div class="grid">
+                <div class="card">
+                    <h3>📹 本地视频</h3>
+                    <p>原始演讲视频文件</p>
+                    <a href="https://archive.org/download/mithowtospeak/MIT_How_To_Speak_IAP_2018_300k.mp4">MP4 (144MB)</a>
+                    <a href="../../00_source/video/MIT_How_To_Speak_IAP_2018_300k.ogv">OGV (37MB)</a>
+                </div>
+                <div class="card">
+                    <h3>📝 中文字幕</h3>
+                    <p>完整中文 SRT 字幕</p>
+                    <a href="../../02_zh/subtitles/MIT_How_To_Speak_IAP_2018_300k.zh-CN.srt">下载 SRT</a>
+                    <a href="../../02_zh/subtitles/subtitles_zh.json">JSON</a>
+                </div>
+                <div class="card">
+                    <h3>🔄 双语字幕</h3>
+                    <p>中英对照字幕</p>
+                    <a href="../../03_bilingual/subtitles/MIT_How_To_Speak_IAP_2018_300k.bilingual.srt">下载 SRT</a>
+                </div>
+                <div class="card">
+                    <h3>📄 中文讲稿</h3>
+                    <p>完整中文 transcript</p>
+                    <a href="../../02_zh/transcript/transcript_zh.md">中文讲稿</a>
+                    <a href="../../03_bilingual/transcript/transcript_bilingual.md">双语讲稿</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- 章节导航 -->
+        <div class="section">
+            <h2>📚 章节导航</h2>
+            <div class="chapter-grid">
+                <a class="chapter-item" href="../../02_zh/chapters/01_introduction.zh.md">
+                    <div class="num">01</div>
+                    <div class="title">开场</div>
+                    <div class="time">00:16 - 03:11</div>
+                </a>
+                <a class="chapter-item" href="../../02_zh/chapters/02_rules_of_engagement.zh.md">
+                    <div class="num">02</div>
+                    <div class="title">参与规则</div>
+                    <div class="time">03:11 - 04:15</div>
+                </a>
+                <a class="chapter-item" href="../../02_zh/chapters/03_how_to_start.zh.md">
+                    <div class="num">03</div>
+                    <div class="title">如何开场</div>
+                    <div class="time">04:15 - 05:38</div>
+                </a>
+                <a class="chapter-item" href="../../02_zh/chapters/04_four_sample_heuristics.zh.md">
+                    <div class="num">04</div>
+                    <div class="title">四个启发式方法</div>
+                    <div class="time">05:38 - 10:17</div>
+                </a>
+                <a class="chapter-item" href="../../02_zh/chapters/05_tools_time_place.zh.md">
+                    <div class="num">05</div>
+                    <div class="title">时间与地点</div>
+                    <div class="time">10:17 - 13:24</div>
+                </a>
+                <a class="chapter-item" href="../../02_zh/chapters/06_boards_props_slides.zh.md">
+                    <div class="num">06</div>
+                    <div class="title">黑板、道具与幻灯片</div>
+                    <div class="time">13:24 - 36:30</div>
+                </a>
+                <a class="chapter-item" href="../../02_zh/chapters/07_informing.zh.md">
+                    <div class="num">07</div>
+                    <div class="title">信息型演讲</div>
+                    <div class="time">36:30 - 41:30</div>
+                </a>
+                <a class="chapter-item" href="../../02_zh/chapters/08_persuading.zh.md">
+                    <div class="num">08</div>
+                    <div class="title">说服型演讲</div>
+                    <div class="time">41:30 - 53:06</div>
+                </a>
+                <a class="chapter-item" href="../../02_zh/chapters/09_how_to_stop.zh.md">
+                    <div class="num">09</div>
+                    <div class="title">如何结束</div>
+                    <div class="time">53:06 - 56:35</div>
+                </a>
+                <a class="chapter-item" href="../../02_zh/chapters/10_final_words.zh.md">
+                    <div class="num">10</div>
+                    <div class="title">结束语</div>
+                    <div class="time">56:35 - 01:00:28</div>
+                </a>
+            </div>
+            <p style="margin-top: 20px;">
+                <a href="../../03_bilingual/chapters/" style="color: #8B0000;">→ 查看全部双语章节</a>
+            </p>
+        </div>
+
+        <!-- 学习讲义 -->
+        <div class="section">
+            <h2>📖 学习讲义</h2>
+            <ul class="link-list">
+                <li>
+                    <a href="../notes/00_course_overview_zh.md">
+                        <span class="icon">📋</span>
+                        <span>课程总览</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/01_为什么表达重要.md">
+                        <span class="icon">💡</span>
+                        <span>为什么表达重要</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/02_如何开场.md">
+                        <span class="icon">🚀</span>
+                        <span>如何开场</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/03_四个启发式方法.md">
+                        <span class="icon">🛠️</span>
+                        <span>四个启发式方法</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/04_时间与地点.md">
+                        <span class="icon">📍</span>
+                        <span>时间与地点</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/05_黑板道具和幻灯片.md">
+                        <span class="icon">🎨</span>
+                        <span>黑板、道具和幻灯片</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/06_信息型演讲.md">
+                        <span class="icon">📊</span>
+                        <span>信息型演讲</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/07_说服型演讲.md">
+                        <span class="icon">🎯</span>
+                        <span>说服型演讲</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/08_温斯顿之星.md">
+                        <span class="icon">⭐</span>
+                        <span>温斯顿之星</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/09_如何结束.md">
+                        <span class="icon">🏁</span>
+                        <span>如何结束</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../notes/10_一页纸速查表.md">
+                        <span class="icon">📄</span>
+                        <span>一页纸速查表</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- 练习 -->
+        <div class="section">
+            <h2>✏️ 练习</h2>
+            <ul class="link-list">
+                <li>
+                    <a href="../practice/01_opening_promise_practice.md">
+                        <span class="icon">📝</span>
+                        <span>练习 1：开场承诺撰写</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../practice/02_four_heuristics_practice.md">
+                        <span class="icon">🔁</span>
+                        <span>练习 2：四个启发式方法应用</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../practice/03_slide_review_checklist.md">
+                        <span class="icon">🔍</span>
+                        <span>练习 3：幻灯片审查清单</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../practice/04_job_talk_template.md">
+                        <span class="icon">💼</span>
+                        <span>练习 4：求职报告模板</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../practice/05_final_slide_contributions_template.md">
+                        <span class="icon">🎬</span>
+                        <span>练习 5：最后一张幻灯片与结束语</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../practice/06_project_presentation_template.md">
+                        <span class="icon">📂</span>
+                        <span>练习 6：项目汇报模板</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- 学习卡片 -->
+        <div class="section">
+            <h2>🃏 学习卡片</h2>
+            <p>40 张学习卡片，涵盖课程核心概念、技巧和术语。</p>
+            <p style="margin-top: 15px;">
+                <a href="../cards/how_to_speak_cards.md" style="color: #8B0000; margin-right: 20px;">📄 Markdown 版本</a>
+                <a href="../cards/how_to_speak_cards.csv" style="color: #8B0000;">📊 CSV 版本</a>
+            </p>
+        </div>
+
+        <!-- 术语表 -->
+        <div class="section">
+            <h2>📚 术语表</h2>
+            <p>统一的中英术语对照表，确保翻译一致性。</p>
+            <p style="margin-top: 15px;">
+                <a href="../../02_zh/glossary/glossary_en_zh.md" style="color: #8B0000; margin-right: 20px;">📄 Markdown</a>
+                <a href="../../02_zh/glossary/glossary_en_zh.csv" style="color: #8B0000;">📊 CSV</a>
+            </p>
+        </div>
+
+        <!-- 报告 -->
+        <div class="section">
+            <h2>📊 项目报告</h2>
+            <ul class="link-list">
+                <li>
+                    <a href="../../reports/phase2_resource_audit_summary.md">
+                        <span class="icon">🔍</span>
+                        <span>第二阶段：资源审计报告</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../../reports/phase3_translation_quality_report.md">
+                        <span class="icon">✅</span>
+                        <span>第三阶段：翻译质量报告</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../../reports/phase3_zh_localization_summary.md">
+                        <span class="icon">📋</span>
+                        <span>第三阶段：中文化总报告</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <p>MIT OCW RES.TLL-005 How to Speak | 中文学习版</p>
+        <p>基于 MIT OpenCourseWare 官方资源整理 | 仅供学习使用</p>
+        <p style="margin-top: 10px;">主讲：Patrick Winston | 翻译与整理：OpenClaw Agent</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,105 @@
+# 第3章：如何开场 / How to Start
+
+## 元信息 / Metadata
+- 英文标题 / English Title: How to Start
+- 时间范围 / Time Range: 05:00 – 07:30
+- 时长 / Duration: 约 2.5 分钟
+
+## 学习目标 / Learning Objectives
+
+**EN:**
+- Understand why jokes should not be used as openings
+- Master the "empowerment promise" opening technique
+- Be able to design an effective opening for your next talk
+
+**ZH:**
+- 理解为什么不该用笑话开场
+- 掌握"赋能承诺"开场法
+- 能够为自己的下一次演讲设计一个有效的开场
+
+## 双语对照 / Bilingual Text
+
+### 段落 1
+
+**EN:**
+> First thing we talk about, of course, is how to start.
+>
+> Some people think the right thing to do is to start a talk with a joke.
+>
+> I don't recommend it, and the reason is that, in the beginning of a talk, people are still putting their laptops away.
+>
+> They're becoming adjusted to your speaking parameters, to your vocal parameters, and they're not ready for a joke.
+
+**ZH:**
+> 我们首先要谈的，当然就是如何开场。
+>
+> 有些人认为开场应该讲一个笑话。
+>
+> 我不推荐这样做，原因是：在演讲刚开始的时候，听众还在收起他们的笔记本电脑。
+>
+> 他们还在适应你的演讲节奏、你的声音参数，他们还没准备好听笑话。
+
+---
+
+### 段落 2
+
+**EN:**
+> So it doesn't work very well. They usually fall flat.
+>
+> What you want to do instead is start with empowerment promise.
+
+**ZH:**
+> 所以笑话的效果往往不好。通常会冷场。
+>
+> 你真正应该做的，是用一个"赋能承诺"开场。
+
+---
+
+### 段落 3
+
+**EN:**
+> You want to tell people what they're going to know at the end of the hour that they didn't know at the beginning of the hour.
+>
+> It's an empowerment promise. It's the reason for being here.
+
+**ZH:**
+> 你应该告诉听众，在这一小时结束时，他们将知道一些在这一小时开始时他们不知道的东西。
+>
+> 这就是赋能承诺。这就是你来到这里的理由。
+
+---
+
+### 段落 4
+
+**EN:**
+> What would be an example? Oh, I see.
+>
+> At the end of this 60 minutes, you will know things about speaking you don't know now, and something among those things you know will make a difference in your life.
+>
+> Yeah, that's an empowerment promise, so that's the best way to start.
+
+**ZH:**
+> 举个例子会是什么样呢？哦，我知道了。
+>
+> 在这 60 分钟结束时，你们将知道一些你们现在还不知道的关于演讲的事情，而这些你们将知道的事情中，会有某一件会改变你的人生。
+>
+> 是的，这就是一个赋能承诺，因此这是最好的开场方式。
+
+---
+
+## 本章要点 / Key Takeaways
+
+- **不要用笑话开场**：听众还在适应你的节奏，笑话容易冷场；冷场的笑话会让演讲者失去权威感
+- **开场的最佳方式是"赋能承诺"**：告诉听众他们将在结束时获得什么
+- 一个好的赋能承诺 = **结束时听众将知道什么** + **为什么这件事对他们的人生有价值**
+- 赋能承诺也是演讲的"存在理由"——它回答了"我为什么应该继续听下去"
+
+## 可实践方法 / Actionable Methods
+
+- 为你的下一次演讲写一个"赋能承诺"：用一句话告诉听众，他们会在结束时带走什么
+- 自检清单：
+  - 我的承诺是否**具体**（而不是"我会讲一些有用的东西"）？
+  - 我的承诺是否能让听众感到"不听完就亏了"？
+  - 我能不能在 30 秒内把它说完？
+- 避免把笑话或自我介绍作为开场——除非你有十足把握
+- 练习把赋能承诺念出声：语气要坚定，不要显得"在求他们听"
