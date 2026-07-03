@@ -1,0 +1,56 @@
+{
+  "id": "how-to-speak",
+  "slug": "how-to-speak",
+  "version": "1.0.0",
+  "title_zh": "MIT OCW《How to Speak》中文学习版",
+  "title_en": "MIT OCW How to Speak",
+  "instructor": "Patrick Winston",
+  "source": "MIT OpenCourseWare RES.TLL-005, January IAP 2018",
+  "source_url": "https://ocw.mit.edu/courses/res-tll-005-january-iap-2018/",
+  "video_url": "https://archive.org/download/mithowtospeak/MIT_How_To_Speak_IAP_2018_300k.mp4",
+  "description": "一门关于如何清晰表达、教学、演讲、答辩和技术汇报的 MIT 经典公开课中文学习版。",
+  "status": "v1.0",
+  "tags": [
+    "MIT",
+    "OCW",
+    "表达",
+    "演讲",
+    "学习",
+    "技术汇报"
+  ],
+  "course_url": "https://conanxin.github.io/courses-zh/courses/how-to-speak/",
+  "resources": {
+    "player": "https://conanxin.github.io/courses-zh/courses/how-to-speak/",
+    "review": "https://conanxin.github.io/courses-zh/courses/how-to-speak/pages/review.html",
+    "resources": "https://conanxin.github.io/courses-zh/courses/how-to-speak/resources.html",
+    "transcript_zh": "https://conanxin.github.io/courses-zh/courses/how-to-speak/resources/02_zh/transcript/transcript_zh.md",
+    "transcript_bilingual": "https://conanxin.github.io/courses-zh/courses/how-to-speak/resources/03_bilingual/transcript/transcript_bilingual.md",
+    "subtitles_zh": "https://conanxin.github.io/courses-zh/courses/how-to-speak/assets/data/subtitles_zh.vtt",
+    "subtitles_bilingual": "https://conanxin.github.io/courses-zh/courses/how-to-speak/assets/data/subtitles_bilingual.vtt",
+    "glossary": "https://conanxin.github.io/courses-zh/courses/how-to-speak/pages/glossary.html",
+    "cards": "https://conanxin.github.io/courses-zh/courses/how-to-speak/pages/cards.html",
+    "practice": "https://conanxin.github.io/courses-zh/courses/how-to-speak/pages/practice.html"
+  },
+  "stats": {
+    "subtitle_cues_zh": 1248,
+    "subtitle_cues_bilingual": 1248,
+    "empty_subtitle_cues_preserved": 82,
+    "chapters": 10,
+    "notes": 11,
+    "practice_templates": 6,
+    "cards": 40
+  },
+  "updated_at": "2026-07-03T07:03:42.647947+00:00",
+  "build_info": {
+    "project_path": "/mnt/d/home/conanxin/workspace/how-to-speak-zh",
+    "phases": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "localization_version": "1.0"
+  }
+}

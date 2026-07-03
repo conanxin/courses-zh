@@ -1,0 +1,30 @@
+{
+  "id": "course-slug",
+  "slug": "course-slug",
+  "version": "1.0.0",
+  "title_zh": "课程中文名",
+  "title_en": "Course English Name",
+  "instructor": "讲师名",
+  "source": "来源",
+  "source_url": "https://...",
+  "video_url": "https://...",
+  "description": "课程描述",
+  "status": "v1.0",
+  "tags": [],
+  "course_url": "./courses/course-slug/",
+  "resources": {
+    "player": "./courses/course-slug/",
+    "review": "./courses/course-slug/pages/review.html",
+    "resources": "./courses/course-slug/resources.html"
+  },
+  "stats": {
+    "subtitle_cues_zh": 0,
+    "subtitle_cues_bilingual": 0,
+    "chapters": 0,
+    "notes": 0,
+    "practice_templates": 0,
+    "cards": 0
+  },
+  "updated_at": "",
+  "build_info": {}
+}
