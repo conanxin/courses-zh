@@ -13,7 +13,7 @@
 | Institution | MIT | 麻省理工学院 |
 | Term | IAP (Independent Activities Period) | 独立活动期 |
 | Duration | 1:03:42 | 1小时03分42秒 |
-| Subtitles | 1,253 entries | 1,253 条字幕 |
+| Subtitles | 1,253 entries | 1,248 条字幕 |
 
 ---
 
