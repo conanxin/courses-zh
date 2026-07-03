@@ -1,0 +1,83 @@
+#!/usr/bin/env python3
+"""Rebuild hub index.html from catalog.json."""
+from pathlib import Path
+import json
+import html
+
+ROOT = Path(__file__).resolve().parents[1]
+catalog = json.loads((ROOT / "courses/catalog.json").read_text(encoding="utf-8"))
+
+cards = []
+for item in catalog:
+    title = html.escape(item.get("title_zh") or item.get("title_en") or item.get("slug", "Untitled"))
+    desc = html.escape(item.get("description", ""))
+    href = html.escape(item.get("href", "#"))
+    status = html.escape(item.get("version") or item.get("status", ""))
+    stats = item.get("stats", {})
+    stat_text = ""
+    if stats:
+        cues = stats.get("subtitle_cues_zh")
+        chapters = stats.get("chapters")
+        if cues or chapters:
+            stat_text = f"章节：{chapters or '-'} · 字幕：{cues or '-'} 条 · {status}"
+    tags = " ".join(f'<span>{html.escape(str(tag))}</span>' for tag in item.get("tags", []))
+    cards.append(f"""
+  <article class="course-card">
+    <h2><a href="{href}">{title}</a></h2>
+    <p>{desc}</p>
+    <p class="meta">{stat_text}</p>
+    <div class="tags">{tags}</div>
+    <p><a class="button" href="{href}">进入课程</a></p>
+  </article>
+""")
+
+index_html = f"""<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>中文学习课程集合</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root {{ color-scheme: light; }}
+body {{ margin: 0; font-family: system-ui, -apple-system, sans-serif; line-height: 1.7; background: #f7f7f4; color: #1f2933; }}
+header {{ padding: 56px 24px 36px; background: #111827; color: white; }}
+header .inner, main, footer {{ max-width: 1080px; margin: 0 auto; }}
+h1 {{ font-size: clamp(2rem, 5vw, 4rem); margin: 0 0 12px; }}
+header p {{ max-width: 760px; color: #d1d5db; font-size: 1.1rem; }}
+main {{ padding: 32px 24px 56px; }}
+.grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }}
+.course-card {{ background: white; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px; box-shadow: 0 10px 30px rgba(15, 23, 42, .06); }}
+.course-card h2 {{ margin-top: 0; line-height: 1.3; }}
+a {{ color: #0f5cc0; text-decoration: none; }}
+a:hover {{ text-decoration: underline; }}
+.meta {{ color: #6b7280; font-size: .95rem; }}
+.tags {{ display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0; }}
+.tags span {{ background: #eef2ff; color: #3730a3; border-radius: 999px; padding: 3px 10px; font-size: .85rem; }}
+.button {{ display: inline-block; padding: 8px 14px; border-radius: 999px; background: #111827; color: white; }}
+.button:hover {{ text-decoration: none; background: #374151; }}
+footer {{ padding: 24px; color: #6b7280; }}
+code {{ background: #eef2f7; padding: 2px 5px; border-radius: 5px; }}
+</style>
+</head>
+<body>
+<header>
+  <div class="inner">
+    <h1>中文学习课程集合</h1>
+    <p>这里用于汇集可在线学习的中文化课程包。每门课程独立放在 <code>courses/&lt;course-slug&gt;/</code> 下，包含播放器、字幕、讲稿、讲义、卡片和练习资源。</p>
+  </div>
+</header>
+<main>
+  <h2>课程列表</h2>
+  <div class="grid">
+    {''.join(cards)}
+  </div>
+</main>
+<footer>
+  <p>课程目录数据：<a href="./courses/catalog.json">courses/catalog.json</a></p>
+</footer>
+</body>
+</html>
+"""
+
+(ROOT / "index.html").write_text(index_html, encoding="utf-8")
+print("Rebuilt index.html")

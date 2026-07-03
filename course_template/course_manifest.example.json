@@ -1,0 +1,27 @@
+{
+  "id": "example-course",
+  "slug": "example-course",
+  "version": "v1.0",
+  "status": "draft",
+  "title_zh": "示例课程中文标题",
+  "title_en": "Example Course",
+  "instructor": "",
+  "source": "",
+  "description": "",
+  "course_url": "",
+  "paths": {
+    "player": "./",
+    "resources": "./resources.html",
+    "review": "./pages/review.html"
+  },
+  "stats": {
+    "subtitle_cues_zh": 0,
+    "subtitle_cues_bilingual": 0,
+    "chapters": 0,
+    "notes": 0,
+    "cards": 0,
+    "practice_templates": 0
+  },
+  "tags": [],
+  "updated_at": ""
+}

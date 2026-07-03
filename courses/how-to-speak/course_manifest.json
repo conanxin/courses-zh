@@ -26,9 +26,9 @@
     "subtitle_cues_bilingual": 1248,
     "empty_subtitle_cues_preserved": 82,
     "chapters": 10,
-    "notes": 10,
+    "notes": 11,
     "practice_templates": 6,
-    "cards": 50
+    "cards": 40
   },
   "tags": [
     "MIT",
@@ -38,5 +38,5 @@
     "技术汇报",
     "学习方法"
   ],
-  "updated_at": "2026-07-03T07:05:48.501028+00:00"
+  "updated_at": "2026-07-03T07:07:54.449229+00:00"
 }
