@@ -1,0 +1,34 @@
+{
+  "id": "course-slug",
+  "slug": "course-slug",
+  "version": "v1.0",
+  "status": "draft",
+  "title_zh": "课程中文名",
+  "title_en": "Course English Name",
+  "instructor": "讲师名",
+  "source": "来源",
+  "description": "课程简介",
+  "course_url": "./courses/course-slug/",
+  "hub_url": "https://conanxin.github.io/courses-zh/",
+  "repository": "https://github.com/conanxin/courses-zh",
+  "video_source": "https://...",
+  "paths": {
+    "player": "./",
+    "resources": "./resources.html",
+    "review": "./pages/review.html",
+    "zh_transcript": "./pages/transcript.html",
+    "bilingual_transcript": "./pages/transcript_bilingual.html",
+    "zh_subtitle_vtt": "./assets/data/subtitles_zh.vtt",
+    "bilingual_subtitle_vtt": "./assets/data/subtitles_bilingual.vtt"
+  },
+  "stats": {
+    "subtitle_cues_zh": 0,
+    "subtitle_cues_bilingual": 0,
+    "chapters": 0,
+    "notes": 0,
+    "practice_templates": 0,
+    "cards": 0
+  },
+  "tags": [],
+  "updated_at": ""
+}

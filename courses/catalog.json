@@ -2,27 +2,33 @@
   {
     "id": "how-to-speak",
     "slug": "how-to-speak",
+    "version": "v1.0",
+    "status": "published",
     "title_zh": "MIT OCW《How to Speak》中文学习版",
     "title_en": "MIT OCW How to Speak",
     "instructor": "Patrick Winston",
-    "source": "MIT OpenCourseWare RES.TLL-005, January IAP 2018",
-    "description": "一门关于如何清晰表达、教学、演讲、答辩和技术汇报的 MIT 经典公开课中文学习版。",
-    "status": "v1.0",
+    "source": "MIT OpenCourseWare RES.TLL-005 How to Speak, January IAP 2018",
+    "description": "Patrick Winston 经典公开课《How to Speak》的中文学习版，包含在线播放器、中文字幕、双语字幕、中文讲稿、双语讲稿、中文讲义、学习卡片、练习模板和审校工作台。",
+    "href": "./courses/how-to-speak/",
+    "course_url": "https://conanxin.github.io/courses-zh/courses/how-to-speak/",
+    "manifest": "./courses/how-to-speak/course_manifest.json",
+    "stats": {
+      "subtitle_cues_zh": 1248,
+      "subtitle_cues_bilingual": 1248,
+      "empty_subtitle_cues_preserved": 82,
+      "chapters": 10,
+      "notes": 10,
+      "practice_templates": 6,
+      "cards": 50
+    },
     "tags": [
       "MIT",
       "OCW",
       "表达",
       "演讲",
-      "学习",
-      "技术汇报"
+      "技术汇报",
+      "学习方法"
     ],
-    "href": "./courses/how-to-speak/",
-    "course_url": "https://conanxin.github.io/courses-zh/courses/how-to-speak/",
-    "updated_at": "2026-07-03T06:43:08.860509+00:00",
-    "resources": {
-      "player": "./courses/how-to-speak/",
-      "review": "./courses/how-to-speak/pages/review.html",
-      "resources": "./courses/how-to-speak/resources.html"
-    }
+    "updated_at": "2026-07-03T07:05:48.501028+00:00"
   }
 ]
