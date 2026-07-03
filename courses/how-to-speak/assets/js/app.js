@@ -129,6 +129,8 @@ function jumpToChapter(seconds) {
   if (video) {
     video.currentTime = seconds;
     video.play();
+    // Scroll back to player
+    video.scrollIntoView({ behavior: 'smooth', block: 'center' });
   }
 }
 
