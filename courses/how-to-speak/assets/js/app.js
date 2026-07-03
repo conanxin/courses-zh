@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", async () => {
  setupVideoPlayer();
  renderChapterList();
  setupSubtitleControls();
+ setupVideoFallback();
 });
 
 async function loadChapters() {
@@ -40,8 +41,6 @@ function setupVideoPlayer() {
   video.src = CONFIG.videoPath;
  }
 
- video.addEventListener("error", showVideoFallback);
- video.addEventListener("stalled", () => console.warn("video stalled"));
  video.addEventListener("loadedmetadata", () => setSubtitleMode(currentSubtitleMode));
 
  const existingTracks = video.querySelectorAll("track");
@@ -63,10 +62,8 @@ function addTrack(video, src, srclang, label, isDefault) {
  video.appendChild(track);
 }
 
-function showVideoFallback() {
- const fallback = document.getElementById("video-fallback");
+function setupVideoFallback() {
  const iframeBox = document.getElementById("archive-iframe-box");
- if (fallback) fallback.style.display = "block";
  if (iframeBox && !iframeBox.dataset.loaded) {
   iframeBox.innerHTML = '<iframe src="' + CONFIG.archiveEmbed + '" allowfullscreen></iframe>';
   iframeBox.dataset.loaded = "true";
