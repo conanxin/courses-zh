@@ -38,5 +38,12 @@
     "技术汇报",
     "学习方法"
   ],
-  "updated_at": "2026-07-03T07:07:54.449229+00:00"
+  "updated_at": "2026-07-03T08:54:46.351196+00:00",
+  "fixes": [
+    {
+      "phase": "phase7b",
+      "summary": "Fixed video fallback, clickable chapters, notes/practice generated HTML pages.",
+      "updated_at": "2026-07-03T08:54:46.351196+00:00"
+    }
+  ]
 }
